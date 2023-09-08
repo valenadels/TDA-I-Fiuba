@@ -1,0 +1,5 @@
+Tiempos de finalización óptimos para cada escenario:
+3 elementos: 10
+10 elementos: 29
+100 elementos: 5223
+1000 elementos: 497886735
