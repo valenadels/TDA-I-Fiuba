@@ -1,0 +1,11 @@
+n rivales 
+compilado por cada rival. puede ser + 1.
+El análisis total de cada rival i le lleva Si tiempo a Scaloni.
+Al ayudante le lleva Ai tiempo.
+Scaloni tiene n ayudantes. igual cantidad que rivales. 
+Primero Scaloni ve a un rival y después lo ve un ayudante. Pero si o si lo ve despues.
+Lo ve uno solo de los ayudantes.
+Los valores de n Si y Ai son dados. 
+
+
+determinar un orden en el que Scaloni debe ver los videos tal que todos los análisis estén listos lo antes posible (es decir, en el mínimo tiempo necesario
