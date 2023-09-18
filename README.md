@@ -21,9 +21,12 @@ Nosotros a lo largo del TP utilizamos la alternativa 2 dado que se ejecuta más 
 # Instrucciones para realizar una prueba con un set propio
 
 En el final del archivo, implementamos una porción de cógido en la cual un usuario puede testear nuestra solución, con un set propio. Algunos detalles a tener en cuenta:
+
 1 - El set debe cumplir con el formato esperado:
     S_i,A_i
     1,2
     3,4
+
 2 - Es necesario cambiar el path en la variable path customizado. Hecho esto ya es posible ejecutar el código.
+
 3 - Esta porción de código devolverá al usuario el menor tiempo posible en el que es posible analizar su set de vídeos.
