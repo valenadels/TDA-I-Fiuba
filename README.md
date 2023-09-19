@@ -21,7 +21,9 @@ Nosotros a lo largo del TP utilizamos la alternativa 2 dado que se ejecuta más 
 # Instrucciones para realizar una prueba con un set propio
 
 En el final del archivo, implementamos una porción de cógido en la cual un usuario puede testear nuestra solución, con un set propio. Algunos detalles a tener en cuenta:
+
 0 - Correr todas las celdas previas antes para que estén definidas.
+
 1 - El set debe cumplir con el formato esperado:
     S_i,A_i
     1,2
