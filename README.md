@@ -26,8 +26,11 @@ En el final del archivo, implementamos una porción de cógido en la cual un usu
 
 1 - El set debe cumplir con el formato esperado:
     | S_i,A_i |
-    | 1,2 |
-    | 3,6 |
+| ------- |
+|   1,2   |
+|   3,6   |
+
+
 
 
 2 - Es necesario cambiar el path en la variable path customizado. Hecho esto ya es posible ejecutar el código.
