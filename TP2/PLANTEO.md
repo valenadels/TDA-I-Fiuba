@@ -2,6 +2,7 @@
 Para pasar en limpio el TP, lo que piden, condiciones, etc.
 
 ## Datos
+- n días de entrenamiento
 - Entrenamiento del dia i demanda un esfuerzo ei. Definimos la ganancia como gi tal que
   gi = ei
 - Entrenamiento del dia i es inammovible, es decir, no se puede cambiar.
