@@ -31,4 +31,20 @@ Vino Messi y me dice que hasta el día n-1 tengo todo resuelto => hasta el día 
 - Al elegir si entreno o no tengo que ver si descansando obtengo mas ganancia al dia siguiente
 - Cuando tengo 1 día -> todo ok entreno ese día y obtengo la ganacia correspond
 
-si entreno es ese valor más lo que ya tenía 
+Tendría que ver siempre para mi día siguiente o mis dos subsecuentes días no se bien eso
+Sabiendo que siempre el último día entreno, como llegue al n-1
+- Habiendo entrenado el día anterior teniendo cierta energía disposible s_i
+    - si el día anterior no entrenaba, hoy tenía una ganacia mayor?
+- No habiendo entrenado teniendo disponible s1
+    - si el día anterior entrenaba, la ganancia era mayor? porque quuizas s2 es <= a la ganacia posible de mi ultimo día 
+
+Similitud con la mochi es que cada día en este caso tiene ua ganancia. Podrpiamos decir que es tipo el problema de la mochia pero restringido a que 
+nos elementos tienen cierto orden y a medida que avanzo en los días los anteriores se descartan
+
+
+
+## Necesitamos
+1. Encontrar la forma de mis subproblemas
+   - A medida que avanzo, mis problemas son más pequeños
+   - Resolver el problema para 2 días es más fácil que para 3 días y así
+2. La forma en que dichos subproblemas se componen para solucionar subproblemas más grandes
