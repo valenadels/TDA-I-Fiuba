@@ -1,5 +1,5 @@
 # TDA-I-Fiuba
-Repositorio para los trabajos prácticos de la materia Teoría de Algoritmos I - curso Buchwald
+Trabajo práctico 1 Algoritmos Greeedy. Teoría de Algoritmos I - curso Buchwald
 
 # Integrantes
 - Tobías Serpa
