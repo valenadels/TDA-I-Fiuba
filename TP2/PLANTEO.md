@@ -8,7 +8,7 @@ Para pasar en limpio el TP, lo que piden, condiciones, etc.
 - Entrenamiento del dia i es inammovible, es decir, no se puede cambiar.
 - Cantidad de energia que se puede gastar en un dia i es j
 - Si j < ei, gi = j sino gi = ei (nota: si j>ei no hay más ganacia que ei)
-- La cantidad de energia del día disminuye a medida que pasan los entrenamientos.
+- La cantidad de energia del día disminuye a medida que pasan los entrenamientos (s)
   El primer día luego de descansar, la cantidad de energia es s1
   El segundo día luego de descansar, la cantidad de energia es s2
   .... s1>=s2>=....>=sn
@@ -45,6 +45,45 @@ nos elementos tienen cierto orden y a medida que avanzo en los días los anterio
 
 ## Necesitamos
 1. Encontrar la forma de mis subproblemas
-   - A medida que avanzo, mis problemas son más pequeños
-   - Resolver el problema para 2 días es más fácil que para 3 días y así
+  - Resolver el problema para 2 días es más fácil que para 3 días y así. 
 2. La forma en que dichos subproblemas se componen para solucionar subproblemas más grandes
+  - Si entreno un día, tengo que ver si descansando obtengo más ganancia al día siguiente
+
+## Ejemplos
+
+esta mal, no da como lo estaba pensando
+
+### 3 días
+1 5 4 ganancias de los días (e_i)
+10 2 2 energía disponible (s_i)
+
+#### Ieraciones
+1- Tengo que definir si entreno o no. Si entreno, tengo que ver si descansando obtengo más ganancia al día siguiente
+    -> entreno, obtengo una ganancia de 1 y al día siguiente obtendría una ganancia de 2 => suma 3
+    -> no entreno, no obtengo ganancia y al otro día obtendría 5 => suma 5
+    NO ENTRENO
+2- Tengo que definir si entreno o no. Si entreno, tengo que ver si descansando obtengo más ganancia al día siguiente
+    -> entreno, obtengo una ganancia de 5 y al día siguiente obtendría una ganancia de 2 => suma 7. 
+    -> no entreno, no obtengo ganancia y al otro día obtendría 2 => suma 2
+    ENTRENO, sumo 5
+3- Ultimo día entreno sumo 7
+
+Solución: 7
+
+### 10 días
+36 2 78 19 -59 76 65 64 33 41
+63 -61 -49 41 40 38 23 17 13 10
+
+1- -> entreno, obtengo una ganancia de 36 y al día siguiente obtendría una ganancia de 2 => suma 38
+    -> no entreno, no obtengo ganancia y al otro día obtendría 2 => suma 2
+    ENTRENO, sumo 36
+2- -> entreno, obtengo una ganancia de 2 y al día siguiente obtendría una ganancia de 49 => suma 51
+    -> no entreno, no obtengo ganancia y al otro día obtendría 63 => suma 63
+    NO ENTRENO, sumo 0
+3- -> entreno, obtengo una ganancia de 63 y al día siguiente obtendría una ganancia de 19 => suma 82
+    -> no entreno, no obtengo ganancia y al otro día obtendría 19 => suma 19
+    ENTRENO, sumo 63
+4- -> entreno, obtengo una ganancia de 19 y al día siguiente obtendría una ganancia de 49 => suma 68
+    -> no entreno, no obtengo ganancia y al otro día obtendría 59 => suma 59
+    ENTRENO, sumo 19
+5- ->
