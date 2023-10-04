@@ -40,6 +40,8 @@ Sabiendo que siempre el último día entreno, como llegue al n-1
 
 Similitud con la mochi es que cada día en este caso tiene ua ganancia. Podrpiamos decir que es tipo el problema de la mochia pero restringido a que 
 nos elementos tienen cierto orden y a medida que avanzo en los días los anteriores se descartan
+Además aca también pasa que cuando agrego un día mi solución cambia y puede que radicalmenteo
+Capaz estoy preguntando mal. Tendria que ver como tengo más ganancia, si entrenando hoy y mañana entreno con la energía dada u hy descanso y mañana tengo todo
 
 
 
@@ -52,6 +54,7 @@ nos elementos tienen cierto orden y a medida que avanzo en los días los anterio
 ## Ejemplos
 
 esta mal, no da como lo estaba pensando
+la pregunta seria si hoy entreno, mañana tengo cierta energía. Esa energía me da una ganancia que es meyor o menor si llegaba a ese día con más energía
 
 ### 3 días
 1 5 4 ganancias de los días (e_i)
@@ -71,8 +74,8 @@ esta mal, no da como lo estaba pensando
 Solución: 7
 
 ### 10 días
-36 2 78 19 -59 76 65 64 33 41
-63 -61 -49 41 40 38 23 17 13 10
+36 2 78 -19 59 76 65 64 33 41
+63 -61 49 41 40 38 23 17 13 10
 
 1- -> entreno, obtengo una ganancia de 36 y al día siguiente obtendría una ganancia de 2 => suma 38
     -> no entreno, no obtengo ganancia y al otro día obtendría 2 => suma 2
@@ -87,3 +90,30 @@ Solución: 7
     -> no entreno, no obtengo ganancia y al otro día obtendría 59 => suma 59
     ENTRENO, sumo 19
 5- ->
+
+
+
+Capaz me tengo que fijar los dos días siguientes
+
+día 1. ENTRENO. +36
+1) entrenar. Ganancia de 36, mañana una de 2 que no es condicionada por mi energía (2<61) -> 
+2) no entrenar. No ganacia, mañana una de 2 que no es condicionada por mi energía (2<63)
+
+día 2. Tengo energía 61. NO ENTRNO
+1) entrenar. Ganancia de 2, mañana una de 49 que si es condicionada por mi energía (78>49). 
+2) no entrenar. Ganancia de 0, mañana una ganancia de 63.
+
+día 3. Tengo energía de 63. ENTRENO +63
+El día anterior no entrene, hoy entreno por consecuencia
+
+día 4. Tengo energía de 61.
+1) entrenar. Ganancia es de 19, mañana tengo una de 59 que si es condicionada por mi energía 59>49. Si entreaba con energía tenía una ganancia de 59 (59>49)
+2) no entrenar. Ganancia es de 0, mañana entreno
+
+
+AHI ESTA 
+
+cuando obtengo mayor ganancia
+descnansando o entrenando hoy?
+- si hoy descanso y mañana reinicio con s1 y sumo todas las ganancias de los días siguientes
+es mayor que hoy haber entrenado y seguir a partir de mañana con s2
