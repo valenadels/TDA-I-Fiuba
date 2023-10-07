@@ -11,7 +11,7 @@ Ganancia maxima: 523
 Plan de entrenamiento: Entreno, Entreno, Entreno, Entreno, Entreno, Descanso, Entreno, Entreno, Entreno, Entreno
 
 10_todo_entreno.txt
-Ganancia maxima: 900
+Ganancia maxima: 860
 Plan de entrenamiento: Entreno, Entreno, Entreno, Entreno, Entreno, Entreno, Entreno, Entreno, Entreno, Entreno
 
 50.txt
