@@ -1,5 +1,5 @@
 # TDA-I-Fiuba
-Trabajo práctico 1 Programación Dinámica. Teoría de Algoritmos I - curso Buchwald
+Trabajo práctico 2 Programación Dinámica. Teoría de Algoritmos I - curso Buchwald
 
 # Integrantes
 - Tobías Serpa
