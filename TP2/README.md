@@ -22,8 +22,11 @@ En el final del archivo, implementamos una porción de cógido en la cual un usu
 0 - Correr todas las celdas previas antes para que estén definidas.
 
 1 - El set debe cumplir con el formato esperado:
+
 En la primera línea el valor de la cantidad de días a considerar (n)
+
 En las siguientes n líneas, las ganancias de dichos días (e_i).
+
 En las siguientes n líneas, la energía con la que se cuenta al día 1, 2, 3, ..., n de estar entrenando sin haber descansando previamente (s_i).
 
 Ejemplo:
@@ -35,6 +38,6 @@ Ejemplo:
 15
 5
 
-2 - Es necesario cambiar el path en la variable path customizado. Hecho esto ya es posible ejecutar el código.
+2 - Es necesario cambiar el path en la variable `path`. Hecho esto ya es posible ejecutar el código.
 
-3 - Esta porción de código devolverá al usuario el mejor plan de entrenamiento, es decir, el plan que brinda la ganancia máxima.
+3 - Esta celda de código devolverá al usuario el mejor plan de entrenamiento, es decir, el plan que brinda la ganancia máxima.
