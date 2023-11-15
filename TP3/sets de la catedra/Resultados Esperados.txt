@@ -1,0 +1,32 @@
+5.txt
+Cantidad mínima: 2 (Messi, Barcon't)
+
+7.txt
+Cantidad mínima: 2 (Pezella, Mauro Zarate)
+
+10_pocos.txt
+Cantidad mínima: 3 (Chiquito Romero, Casco, Di Maria)
+
+10_varios.txt
+Cantidad mínima: 6 (Riquelme, Dibu, Beltran, Dybala, Di Maria, Palermo)
+
+10_todos.txt
+Cantidad mínima: 10 (Nico González, Correa, Senesi, Lautaro, Paredes, Armani, Montiel, Messi, Cuti, Mac Allister)
+
+15.txt
+Cantidad mínima: 4 (Palermo, Chiquito Romero, Dybala, Luka Romero)
+
+20.txt
+Cantidad mínima: 5 (Barcon't, Buonanotte, Mauro Zarate, Riquelme, Ogro Fabianni)
+
+50.txt
+Cantidad mínima: 6 (Casco, Dybala, Armani, Langoni, Tucu Pereyra, Barcon't)
+
+75.txt
+Cantidad mínima: 8 (Langoni, Palermo, Casco, Pity Martinez, Gallardo, Simeone, Cuti Romero, El fantasma de la B)
+
+100.txt
+Cantidad mínima: 9 (Changuito Zeballos, Barcon't, Simeone, Cuti Romero, Armani, Dybala, Tucu Pereyra, Mauro Zarate, Palermo)
+
+200.txt
+Cantidad mínima: 9 (Tucu Pereyra, Soule, Gallardo, Barcon't, Mauro Zarate, Beltran, Pity Martinez, Palermo, Chiquito Romero)

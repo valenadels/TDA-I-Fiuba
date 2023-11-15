@@ -1,0 +1,7 @@
+Colo Barco,Mauro Zarate,Colidio
+Colo Barco,Mauro Zarate,Dibu,Chiquito Romero,Barcon't
+Chiquito Romero,Colidio,Wachoffisde Abila,Pezzella
+Armani,Mauro Zarate,Barcon't
+Colo Barco,Armani,Dibu,Pezzella,Barcon't
+Barcon't,Mauro Zarate,Cuti Romero
+Cuti Romero,Pezzella,Messi,Colidio,Barcon't,Casco

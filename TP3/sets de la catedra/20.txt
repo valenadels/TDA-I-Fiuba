@@ -1,0 +1,20 @@
+Barcon't,Riquelme,Soule,El fantasma de la B,Chiquito Romero,Wachoffisde Abila
+Di Maria,Riquelme,Zapelli,Buonanotte
+Barcon't,Dybala,Burrito Ortega,Mauro Zarate,Tucu Pereyra,Pezzella
+Palermo,Dybala,Di Maria,Riquelme,Ogro Fabianni
+Langoni,Riquelme,Dibu,Colidio,Casco,Luka Romero
+Burrito Ortega,Di Maria,Mauro Zarate,Soule,Casco,Armani,Pity Martinez
+Wachoffisde Abila,Di Maria,Ogro Fabianni,Pezzella,Casco,Luka Romero,Simeone
+Gallardo,Wachoffisde Abila,Riquelme,Casco,Armani,Simeone
+Barcon't,Dybala,Palermo,Tucu Pereyra,Pezzella,Colidio
+Di Maria,Riquelme,Dibu,Pity Martinez,Beltran
+Colo Barco,Zapelli,Mauro Zarate,Armani
+Barcon't,Buonanotte,Langoni,Zapelli,El fantasma de la B,Beltran
+Gallardo,Barcon't,Langoni,El fantasma de la B,Casco,Soule,Pity Martinez
+Riquelme,Tucu Pereyra,Armani,Luka Romero,Wachoffisde Abila
+El fantasma de la B,Buonanotte,Pity Martinez,Soule
+Gallardo,Dybala,Langoni,Ogro Fabianni,Mauro Zarate
+Buendia,Ogro Fabianni,Colidio,Messi,Casco,Cuti Romero,Beltran
+El fantasma de la B,Colidio,Zapelli,Buonanotte
+Di Maria,Riquelme,Buonanotte,Changuito Zeballos,Chiquito Romero,Beltran
+Burrito Ortega,Di Maria,Mauro Zarate,Tucu Pereyra,Changuito Zeballos,Wachoffisde Abila,Beltran

@@ -1,0 +1,10 @@
+Colidio,Chiquito Romero,Gallardo
+Colo Barco,Palermo,Dibu,Di Maria,Cuti Romero
+Casco,Gallardo,Messi
+Wachoffisde Abila,Palermo,Dibu,Burrito Ortega,Colidio,Di Maria,Gallardo
+Chiquito Romero,Dibu,Pezzella,Di Maria,Gallardo,Mauro Zarate
+Casco,Wachoffisde Abila,Colo Barco,Riquelme,Dibu,Mauro Zarate
+Casco,Wachoffisde Abila,Barcon't,Ogro Fabianni,Di Maria,Cuti Romero
+Wachoffisde Abila,Colo Barco,Barcon't,Colidio,Di Maria,Gallardo,Messi
+Wachoffisde Abila,Chiquito Romero,Barcon't,Palermo,Cuti Romero,Messi
+Casco,Mauro Zarate,Messi
