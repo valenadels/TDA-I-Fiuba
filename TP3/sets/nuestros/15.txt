@@ -1,15 +1,15 @@
-Riquelme,Luka Romero,Beltran,Palermo,Colidio,Barcon't,Di Maria,Langoni,Zapelli
-El fantasma de la B,Casco
-Tucu Pereyra,Riquelme,Mauro Zarate,Messi,Colidio,Pezzella,Buonanotte,Buendia,Simeone,Gallardo,Dybala,Zapelli
-Riquelme,Cuti Romero,Luka Romero,Barcon't,Gallardo,Zapelli,Chiquito Romero
+Wachoffisde Abila,Dibu,Chiquito Romero,Langoni,Mauro Zarate,Armani,Pity Martinez,Zapelli,Changuito Zeballos
+Tucu Pereyra,Casco
+Buonanotte,Cuti Romero,Luka Romero,Dybala,Pity Martinez,Langoni,Palermo,Riquelme,Simeone,Chiquito Romero,Di Maria,Colo Barco
+Messi,Dibu,Mauro Zarate,Soule,Langoni,Riquelme,Pity Martinez
 Casco
-Dibu,Burrito Ortega,Palermo,Colidio,Pezzella,Barcon't,Buendia,Soule,Gallardo,Dybala
-Wachoffisde Abila,Mauro Zarate,El fantasma de la B,Palermo,Casco,Gallardo
-Wachoffisde Abila,Zapelli,Changuito Zeballos
-Riquelme,Beltran,Mauro Zarate,Barcon't,Casco,Colo Barco,Simeone,Di Maria,Langoni,Dybala,Zapelli,Chiquito Romero
-Tucu Pereyra,Riquelme,Beltran,Palermo,Mauro Zarate,Soule,Simeone,Zapelli
-Riquelme,Wachoffisde Abila,Changuito Zeballos,Beltran,Burrito Ortega,Mauro Zarate,Colidio,Casco,Colo Barco,Barcon't
-Tucu Pereyra,Armani,Soule
-Colidio
-Luka Romero,Cuti Romero,Pity Martinez,Casco,Buendia,Di Maria,Dybala,Langoni,Zapelli
-Riquelme,Luka Romero,Burrito Ortega,Palermo,Casco,Soule,Buendia,Barcon't,Di Maria,Zapelli,Chiquito Romero
+Pezzella,Gallardo,Cuti Romero,Dibu,Colo Barco,Buendia,Riquelme,Chiquito Romero,Luka Romero,Zapelli
+Tucu Pereyra,Riquelme,Casco,El fantasma de la B,Dybala,Zapelli
+El fantasma de la B,Barcon't,Pity Martinez
+Wachoffisde Abila,Burrito Ortega,Cuti Romero,Dibu,Soule,Casco,Langoni,Dybala,Armani,Pity Martinez,Simeone,Changuito Zeballos
+Palermo,Dybala,Langoni,Buendia,Simeone,Wachoffisde Abila,Pity Martinez,Zapelli
+Burrito Ortega,Dibu,Dybala,Casco,Langoni,El fantasma de la B,Barcon't,Wachoffisde Abila,Chiquito Romero,Gallardo
+Buendia,Ogro Fabianni,Palermo
+Chiquito Romero
+Cuti Romero,Messi,Beltran,Casco,Mauro Zarate,Armani,Pity Martinez,Colo Barco,Changuito Zeballos
+Gallardo,Dibu,Soule,Colo Barco,Casco,Langoni,Buendia,Mauro Zarate,Armani,Pity Martinez,Zapelli
