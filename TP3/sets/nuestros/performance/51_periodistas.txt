@@ -1,0 +1,51 @@
+Di Maria,Buonanotte,Burrito Ortega,Gallardo,Chiquito Romero,Colidio
+El fantasma de la B
+Dibu,Luka Romero
+Beltran,Barcon't,Chiquito Romero,Wachoffisde Abila,Gallardo,Dybala
+Armani,Ogro Fabianni,Burrito Ortega,Beltran
+Di Maria,Messi,Armani,Buendia,Pezzella,Dybala
+Dibu,El fantasma de la B,Soule,Wachoffisde Abila,Riquelme
+Buendia,Pity Martinez,Tucu Pereyra,Cuti Romero,Ogro Fabianni,Palermo
+Soule,Pity Martinez,Zapelli
+Colo Barco,Chiquito Romero,Mauro Zarate
+Di Maria,Casco,Messi,Barcon't,Ogro Fabianni
+Beltran,Palermo,Langoni
+Riquelme,Pity Martinez
+Mauro Zarate,Pezzella,Dybala,Cuti Romero,Zapelli
+Armani,Gallardo,Barcon't
+Di Maria,Beltran
+Chiquito Romero,Pezzella
+Burrito Ortega,Riquelme,Beltran,Langoni
+Colo Barco,Barcon't,Cuti Romero,Burrito Ortega,Tucu Pereyra,Dybala
+Pezzella,Palermo,Langoni
+Casco
+Casco,Mauro Zarate,Cuti Romero,Langoni,Chiquito Romero,Changuito Zeballos
+Barcon't,Chiquito Romero,Pezzella,Simeone
+Buendia,Burrito Ortega,Pezzella,Langoni
+Colidio
+Pity Martinez
+Barcon't,Burrito Ortega,Simeone,Buonanotte
+Soule,Langoni
+El fantasma de la B,Casco,Buonanotte
+Dibu,El fantasma de la B,Luka Romero,Wachoffisde Abila,Langoni,Simeone
+Dibu,Messi,Chiquito Romero,Cuti Romero,Dybala,Changuito Zeballos,Simeone
+Burrito Ortega,Beltran,Buonanotte
+Colo Barco,Burrito Ortega,Casco
+Casco,Gallardo,Palermo,Luka Romero
+Colo Barco,Pity Martinez,Ogro Fabianni,Colidio,Zapelli
+El fantasma de la B,Mauro Zarate,Buendia,Pezzella,Ogro Fabianni
+Mauro Zarate
+Colo Barco,Di Maria,Burrito Ortega,Wachoffisde Abila,Dybala,Langoni,Cuti Romero
+Messi,Mauro Zarate,Chiquito Romero,Buendia,Dybala,Changuito Zeballos,Zapelli
+Pity Martinez,Beltran
+Soule,Wachoffisde Abila,Palermo
+Di Maria,Burrito Ortega,Pity Martinez,Changuito Zeballos,Simeone,Palermo
+Colo Barco,Dibu,Buonanotte,Buendia,Wachoffisde Abila,Pity Martinez
+Chiquito Romero,Riquelme,Casco,Colidio
+Colo Barco,Riquelme,Tucu Pereyra
+Soule,Changuito Zeballos
+Wachoffisde Abila
+Changuito Zeballos,Messi,Beltran
+Palermo,Tucu Pereyra
+Buendia,El fantasma de la B,Soule,Buonanotte
+Casco,Pity Martinez,Mauro Zarate

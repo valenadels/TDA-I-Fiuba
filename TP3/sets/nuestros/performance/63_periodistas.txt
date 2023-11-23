@@ -1,0 +1,63 @@
+Buendia,Simeone
+Barcon't,Buendia,Luka Romero
+Armani,Ogro Fabianni,Langoni
+Simeone
+Di Maria
+Riquelme,Pity Martinez
+Buonanotte,Luka Romero,Tucu Pereyra,Changuito Zeballos,Colidio
+Barcon't,Pity Martinez,Zapelli
+Dibu,Pezzella,Pity Martinez,Simeone
+Di Maria,Dibu,Beltran,Mauro Zarate,Burrito Ortega,Tucu Pereyra,Colidio
+Casco
+Armani,Pezzella
+Soule,Chiquito Romero,Beltran
+Luka Romero
+Messi
+Changuito Zeballos
+Di Maria,El fantasma de la B,Mauro Zarate,Chiquito Romero,Simeone,Palermo
+Barcon't,Armani,Burrito Ortega,Wachoffisde Abila,Cuti Romero,Zapelli
+Armani,Casco,Dibu
+Buendia
+Armani,Mauro Zarate,Pity Martinez,Tucu Pereyra,Zapelli
+Armani,Dybala,Pezzella
+Dibu,Messi,Mauro Zarate,Soule,Pity Martinez,Palermo
+Palermo,Zapelli
+Messi,Buendia,Cuti Romero,Changuito Zeballos,Palermo
+Di Maria,Burrito Ortega,Gallardo,Zapelli
+Soule,Ogro Fabianni
+Di Maria,Dybala,Riquelme,Palermo
+Gallardo
+Dibu,Cuti Romero,Changuito Zeballos,Luka Romero
+Casco,Buonanotte,Burrito Ortega,Pezzella,Dybala,Zapelli
+Messi,Barcon't,Buendia,Zapelli,Colidio
+Dibu,Wachoffisde Abila,Palermo
+Zapelli
+Casco,Armani,Burrito Ortega,Tucu Pereyra,Riquelme
+Barcon't,Cuti Romero,Colo Barco
+Gallardo,Palermo
+El fantasma de la B,Gallardo,Tucu Pereyra,Langoni,Riquelme
+Buendia,Colidio,Palermo
+Ogro Fabianni,Messi,Beltran,Barcon't,Pity Martinez,Langoni,Changuito Zeballos
+Buendia,Ogro Fabianni,Buonanotte
+Pity Martinez
+Colo Barco
+Luka Romero,Langoni,Dybala,Zapelli,Palermo
+Colo Barco,Casco,Mauro Zarate,Soule,Dybala
+Buendia,Pezzella,Chiquito Romero,Changuito Zeballos,Riquelme,Zapelli
+Armani,Messi,Pity Martinez,Zapelli
+Buendia,Mauro Zarate,Tucu Pereyra,Langoni
+Changuito Zeballos,Simeone
+Luka Romero,El fantasma de la B,Palermo,Gallardo,Cuti Romero,Colidio
+Dybala,Buonanotte
+Armani,Buendia,Colidio,Dibu
+Dibu,Dybala,Colidio
+Barcon't,Langoni,Riquelme,El fantasma de la B
+Di Maria,Beltran
+Pity Martinez,Gallardo,Colidio,Buonanotte
+Dibu,Dybala,Changuito Zeballos
+Di Maria,Dibu,Casco,Ogro Fabianni,Colidio
+Casco,Messi,Buonanotte,Barcon't,Soule
+Changuito Zeballos
+Soule,Messi,Tucu Pereyra,Di Maria
+Colo Barco,Chiquito Romero,Pezzella,Riquelme
+Luka Romero,Buonanotte,Wachoffisde Abila,Langoni,Riquelme

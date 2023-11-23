@@ -1,0 +1,65 @@
+Buonanotte
+Dybala,Ogro Fabianni,Simeone,Palermo
+Di Maria,El fantasma de la B,Pezzella,Tucu Pereyra,Langoni
+Barcon't,Zapelli,Beltran,Tucu Pereyra
+Dybala,Zapelli
+Casco,Messi,Cuti Romero,Palermo,Chiquito Romero,Zapelli
+Colo Barco,Soule,Palermo,Cuti Romero,Zapelli
+Pity Martinez
+Colidio
+Dybala,Colidio
+Di Maria,Chiquito Romero,Barcon't
+Soule,Gallardo,Wachoffisde Abila
+Ogro Fabianni,Pity Martinez,El fantasma de la B
+Barcon't
+Messi,Wachoffisde Abila
+Buendia,Messi,Simeone
+Buendia,Gallardo,Langoni,Cuti Romero,Riquelme,Zapelli
+Dibu,Changuito Zeballos
+Colidio,Casco,Pity Martinez,Beltran
+Cuti Romero,Wachoffisde Abila
+Armani,Riquelme,Zapelli,Soule
+Dibu,Barcon't,Mauro Zarate,Langoni,Simeone
+Colo Barco,Beltran
+Colo Barco,Armani,Cuti Romero,Langoni,Chiquito Romero,Zapelli
+Colidio,Langoni
+Soule,Messi,Wachoffisde Abila
+Barcon't,Dybala,El fantasma de la B,Buonanotte
+Di Maria,Cuti Romero,Casco
+Colo Barco,Casco,Mauro Zarate,Buendia,Chiquito Romero,Ogro Fabianni,Simeone
+Di Maria,Armani,Buendia,Burrito Ortega,Pezzella,Simeone
+Colo Barco,Messi,Tucu Pereyra
+Dybala,Cuti Romero,Casco,Changuito Zeballos
+Colidio
+Cuti Romero,Pity Martinez,Palermo
+Barcon't,Palermo,Chiquito Romero,Simeone,Colidio
+Di Maria,Buendia,El fantasma de la B
+Dibu,Casco,Armani,Pezzella,Langoni,Zapelli
+Di Maria,Changuito Zeballos,Colidio,Langoni
+Colo Barco,Casco,Buendia,Gallardo,Riquelme,Simeone,Colidio
+Di Maria,Messi,Mauro Zarate,Langoni,Colidio
+Buendia,Dybala,Colidio
+Dybala
+Burrito Ortega
+Dybala
+Casco,Messi,Barcon't,Wachoffisde Abila,Cuti Romero
+Dybala
+Zapelli,Pezzella,Tucu Pereyra
+Colo Barco,Cuti Romero,Dibu
+Pezzella,Casco
+Colo Barco,El fantasma de la B,Barcon't,Mauro Zarate,Palermo
+Colo Barco,Soule
+Buendia,Langoni,Tucu Pereyra,Buonanotte
+Luka Romero,Pezzella,Chiquito Romero,Riquelme,Zapelli
+Barcon't,Burrito Ortega,Pezzella,Langoni,Cuti Romero,Ogro Fabianni,Riquelme
+Mauro Zarate
+Armani,Dybala
+Pezzella
+Buendia
+Cuti Romero,Buonanotte
+Dibu,Armani,Langoni
+Buonanotte,Mauro Zarate,Pezzella,Langoni,Chiquito Romero,Changuito Zeballos,Palermo
+Dibu,Buendia,Zapelli,Langoni
+Di Maria,Pezzella,Mauro Zarate,Palermo
+Di Maria
+Cuti Romero,Casco,Gallardo,Colidio

@@ -1,0 +1,49 @@
+El fantasma de la B,Armani,Buendia,Burrito Ortega,Pezzella,Dybala
+Colo Barco,Burrito Ortega,Pezzella,Chiquito Romero
+Di Maria,El fantasma de la B
+Buendia
+El fantasma de la B,Soule,Wachoffisde Abila,Riquelme,Zapelli
+Barcon't,Beltran,Tucu Pereyra
+Chiquito Romero,Mauro Zarate,Tucu Pereyra,Luka Romero
+Di Maria,Beltran,Luka Romero,Chiquito Romero,Dybala,Zapelli
+Dybala,Simeone,Chiquito Romero
+Luka Romero,Soule,Wachoffisde Abila,Gallardo,Riquelme
+Palermo
+Colidio
+Pity Martinez,Simeone,Tucu Pereyra,Langoni
+Colo Barco,El fantasma de la B
+Dibu,Buonanotte,Soule,Burrito Ortega,Gallardo,Ogro Fabianni
+Casco,Messi,Buendia,Tucu Pereyra,Zapelli
+Di Maria,Chiquito Romero,Palermo,Tucu Pereyra
+Colo Barco,Casco,Luka Romero,Armani,Barcon't,Pezzella
+El fantasma de la B,Burrito Ortega,Tucu Pereyra,Ogro Fabianni,Simeone
+Soule,Zapelli
+Buendia,Riquelme,El fantasma de la B
+Casco,Simeone
+Zapelli,Colidio,El fantasma de la B
+Gallardo
+Buonanotte,El fantasma de la B,Buendia,Dybala,Ogro Fabianni,Simeone
+Colo Barco,Luka Romero,Tucu Pereyra,Ogro Fabianni,Riquelme
+Luka Romero,Wachoffisde Abila,Chiquito Romero,Riquelme,Zapelli
+Di Maria,Changuito Zeballos,Wachoffisde Abila
+Mauro Zarate,Burrito Ortega,Palermo,Wachoffisde Abila,Colidio
+Dibu,El fantasma de la B,Mauro Zarate,Pezzella,Cuti Romero,Simeone
+Beltran,El fantasma de la B,Soule,Pezzella,Langoni,Riquelme
+Dibu,Messi,Beltran,Tucu Pereyra,Zapelli
+Mauro Zarate,Messi,Colidio
+Colo Barco,Pity Martinez,Wachoffisde Abila,Messi
+Beltran,Armani,Changuito Zeballos,Riquelme,Colidio
+Barcon't,Buendia
+Casco,Soule,Gallardo,Wachoffisde Abila,Dybala
+Colo Barco,El fantasma de la B,Mauro Zarate,Pezzella,Burrito Ortega,Langoni
+El fantasma de la B,Mauro Zarate,Buendia,Soule,Langoni,Palermo
+Colo Barco,Di Maria,Soule
+Burrito Ortega,Wachoffisde Abila,Zapelli
+Gallardo,Beltran,Luka Romero
+Messi,Casco,Buendia,Soule,Gallardo,Dybala,Cuti Romero
+Luka Romero
+Colo Barco,Di Maria,Luka Romero,Pezzella,Chiquito Romero,Ogro Fabianni
+Di Maria,Luka Romero
+Dibu,Colo Barco,Luka Romero,Buendia,Riquelme
+Dibu,Beltran,Mauro Zarate,Soule,Pity Martinez,Wachoffisde Abila
+Changuito Zeballos

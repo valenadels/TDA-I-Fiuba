@@ -1,0 +1,12 @@
+Colo Barco,Casco,Barcon't,Buendia,Langoni,Riquelme
+Buonanotte,Armani,Burrito Ortega,Wachoffisde Abila,Tucu Pereyra
+Buendia,Zapelli,Luka Romero
+Di Maria,Messi,El fantasma de la B,Pity Martinez,Ogro Fabianni,Riquelme
+Buendia,Palermo
+Messi,Luka Romero,Armani,Burrito Ortega,Zapelli
+Armani,Dybala,Tucu Pereyra,Langoni
+Changuito Zeballos,Wachoffisde Abila,Simeone,Dybala
+Di Maria,Dibu,Messi,Pezzella,Gallardo,Ogro Fabianni
+Cuti Romero
+Colo Barco,Dybala,Messi,Beltran
+Cuti Romero,Pezzella,Burrito Ortega,Pity Martinez,Dybala

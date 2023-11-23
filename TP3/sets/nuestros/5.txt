@@ -1,5 +1,5 @@
-Armani,Messi,Buonanotte,Beltran
-Gallardo,Cuti Romero,Soule
-Barcon't,Di Maria,Cuti Romero
-Soule,Changuito Zeballos
-Simeone,Beltran,Changuito Zeballos
+Di Maria,Messi,Beltran,Langoni
+Barcon't,Armani,Zapelli
+Buendia,Chiquito Romero,Luka Romero,El fantasma de la B
+Soule,Chiquito Romero,Gallardo,Langoni
+Barcon't,Dybala

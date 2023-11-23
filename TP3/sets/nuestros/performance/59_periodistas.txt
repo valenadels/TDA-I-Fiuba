@@ -1,0 +1,59 @@
+El fantasma de la B
+Messi,Mauro Zarate,Pezzella,Gallardo,Dybala
+Dibu,Gallardo
+Buendia,Chiquito Romero,Burrito Ortega,Beltran
+Di Maria,Burrito Ortega,Zapelli
+Dibu,Dybala,Changuito Zeballos,Riquelme
+Di Maria,Mauro Zarate
+Colo Barco,Chiquito Romero,Burrito Ortega,Gallardo,Langoni,Cuti Romero
+Burrito Ortega,Gallardo,Dybala,Changuito Zeballos,Simeone,Colidio
+Simeone
+Pezzella,Messi,Gallardo
+Simeone
+Mauro Zarate,Pity Martinez,Tucu Pereyra
+Colo Barco,Dibu,Armani,Pezzella,Wachoffisde Abila,Palermo
+Wachoffisde Abila,Colidio
+Chiquito Romero,Pity Martinez
+Colo Barco,Buendia,Pezzella,Gallardo,Chiquito Romero,Colidio
+Colo Barco,Buonanotte,Burrito Ortega,Pezzella,Tucu Pereyra,Changuito Zeballos
+Gallardo
+Di Maria,Wachoffisde Abila
+Di Maria,Mauro Zarate,Langoni,Chiquito Romero,Changuito Zeballos,Simeone
+Dibu,Changuito Zeballos
+Changuito Zeballos,Burrito Ortega,Mauro Zarate,Pity Martinez
+Gallardo
+Wachoffisde Abila
+Armani,Colo Barco,Simeone,Zapelli
+Barcon't,Messi
+Di Maria,Chiquito Romero,Dybala,Cuti Romero,Ogro Fabianni
+Armani,Buendia,Soule,Chiquito Romero,Ogro Fabianni
+Tucu Pereyra
+Messi,Mauro Zarate,Soule,Pezzella,Chiquito Romero,Riquelme,Colidio
+Dibu,Riquelme
+Colo Barco,Beltran,Colidio,Barcon't
+Chiquito Romero
+Armani,Buonanotte,Ogro Fabianni,Langoni
+Dibu,Beltran,Luka Romero,Burrito Ortega,Pezzella,Pity Martinez,Chiquito Romero
+Cuti Romero,Mauro Zarate,Pity Martinez,Beltran
+Soule,Changuito Zeballos
+Dibu,Messi,Casco,Armani,Pity Martinez,Langoni
+Di Maria,Beltran,Palermo,Buonanotte
+Casco,Messi,Burrito Ortega,Chiquito Romero,Zapelli
+Armani,Pezzella,Palermo,Soule
+Mauro Zarate
+Beltran,Soule,Burrito Ortega,Langoni,Zapelli,Colidio
+Dybala,Simeone
+Di Maria,Mauro Zarate,Buendia,Tucu Pereyra,Riquelme,Simeone
+Buonanotte,Cuti Romero,Chiquito Romero,Ogro Fabianni,Simeone
+Pezzella,Wachoffisde Abila
+Dybala,Ogro Fabianni,Luka Romero
+Di Maria,El fantasma de la B,Mauro Zarate,Tucu Pereyra,Changuito Zeballos,Zapelli
+Di Maria,Cuti Romero,Buonanotte,Langoni
+Gallardo,Tucu Pereyra,El fantasma de la B
+Di Maria,Beltran,Luka Romero,Changuito Zeballos,Gallardo,Ogro Fabianni
+Colo Barco,Chiquito Romero,Colidio
+Wachoffisde Abila,Burrito Ortega,Gallardo,Colidio
+Ogro Fabianni
+Di Maria,Soule,Chiquito Romero,Colidio,Palermo
+Casco,Pity Martinez,Langoni,Changuito Zeballos,Simeone
+Colo Barco,Cuti Romero,Burrito Ortega,Colidio

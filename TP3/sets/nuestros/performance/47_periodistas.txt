@@ -1,0 +1,47 @@
+Armani,Mauro Zarate,Soule,Cuti Romero,Pezzella,Dybala,Palermo
+Riquelme,Burrito Ortega,Casco,Wachoffisde Abila
+Buonanotte,Burrito Ortega,Gallardo,Chiquito Romero,Changuito Zeballos,Riquelme
+Cuti Romero,Ogro Fabianni,Burrito Ortega,Beltran
+Beltran,Burrito Ortega,Tucu Pereyra
+Colo Barco,Buendia,Pity Martinez,Changuito Zeballos,Riquelme,Colidio
+Mauro Zarate,Tucu Pereyra
+Armani,Zapelli
+Simeone,Wachoffisde Abila
+Buonanotte,Cuti Romero,Simeone,Langoni
+Ogro Fabianni
+Dibu,Ogro Fabianni,Armani,Wachoffisde Abila,Dybala,Changuito Zeballos
+Messi,Chiquito Romero,Cuti Romero,Pity Martinez,Dybala
+Luka Romero
+Buendia,Cuti Romero,Pezzella,Langoni
+Soule
+Casco,Tucu Pereyra,Langoni,Cuti Romero,Colidio
+Ogro Fabianni,Tucu Pereyra,Luka Romero
+Barcon't,Dibu
+Beltran,Buonanotte,Burrito Ortega,Pity Martinez,Riquelme
+Buonanotte,Langoni,Chiquito Romero,Ogro Fabianni,Riquelme
+Casco,Luka Romero,Barcon't,Pity Martinez,Wachoffisde Abila,Langoni,Colidio
+Dibu,Casco,Gallardo,Tucu Pereyra,Langoni,Changuito Zeballos
+Di Maria,El fantasma de la B,Barcon't,Buendia,Burrito Ortega,Wachoffisde Abila
+Dybala,Messi,Gallardo,El fantasma de la B
+Armani,Palermo
+Dybala,Wachoffisde Abila
+Dibu,Di Maria,Beltran,Gallardo,Cuti Romero,Palermo
+Dybala,Palermo,Colidio
+Armani,Mauro Zarate,Burrito Ortega,Tucu Pereyra,Changuito Zeballos
+Soule,Pity Martinez,Tucu Pereyra
+Barcon't,Changuito Zeballos,Langoni
+Buendia,Colo Barco,Beltran
+Buonanotte,Pezzella,Chiquito Romero,Changuito Zeballos,Riquelme
+Barcon't,Mauro Zarate
+Dibu,Luka Romero,Buendia,Cuti Romero,Riquelme
+Dibu
+Barcon't,Pezzella,Mauro Zarate,Soule
+Di Maria,Changuito Zeballos,Burrito Ortega,Pezzella,Tucu Pereyra,Ogro Fabianni
+Casco,Armani,Barcon't,Burrito Ortega,Dybala,Palermo
+Colo Barco,Casco,El fantasma de la B,Armani,Tucu Pereyra,Dybala
+Wachoffisde Abila
+Colo Barco,Dybala,Beltran,Tucu Pereyra
+Messi,Chiquito Romero,Buendia,Burrito Ortega,Cuti Romero,Changuito Zeballos,Colidio
+Messi,Casco,Beltran,Wachoffisde Abila,Changuito Zeballos,Riquelme,Palermo
+Barcon't,Pezzella,Pity Martinez,Gallardo,Ogro Fabianni,Zapelli
+Di Maria,Casco,Gallardo,Langoni,Ogro Fabianni,Colidio

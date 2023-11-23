@@ -1,0 +1,20 @@
+Riquelme
+Colo Barco,Buendia,Pity Martinez
+Dybala
+El fantasma de la B
+Ogro Fabianni,Changuito Zeballos,Pezzella,Palermo
+Dibu,Burrito Ortega,Palermo,Chiquito Romero,Colidio
+El fantasma de la B,Pezzella,Wachoffisde Abila,Langoni,Cuti Romero
+Dibu,Burrito Ortega,Mauro Zarate
+Colo Barco,Barcon't,Buonanotte
+Colidio
+Tucu Pereyra,Wachoffisde Abila,Colidio
+Buonanotte,Gallardo,Colidio,Luka Romero
+Buendia,Casco,Tucu Pereyra,Barcon't
+Armani,Gallardo,Tucu Pereyra,Buonanotte
+Messi,Mauro Zarate,Buendia,Wachoffisde Abila,Chiquito Romero,Palermo
+Dibu
+Dibu,Chiquito Romero,Casco,Messi
+Di Maria,Dibu,Armani,Wachoffisde Abila,Cuti Romero
+Cuti Romero,Luka Romero
+Di Maria,Dibu,Chiquito Romero,Pezzella,Langoni,Dybala,Colidio

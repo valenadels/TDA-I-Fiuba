@@ -1,0 +1,53 @@
+Di Maria,Changuito Zeballos,Barcon't
+El fantasma de la B,Luka Romero,Armani,Soule,Buendia,Burrito Ortega,Wachoffisde Abila
+Burrito Ortega,Messi,Palermo,Buonanotte
+Colo Barco,Dibu,Barcon't,Simeone,Palermo
+Messi,Luka Romero,Barcon't,Burrito Ortega,Langoni,Ogro Fabianni
+Casco,Simeone
+Mauro Zarate
+Colo Barco,Luka Romero
+El fantasma de la B,Mauro Zarate,Burrito Ortega,Dybala,Simeone,Palermo
+Armani,Riquelme,Mauro Zarate,Di Maria
+Riquelme,Messi,Gallardo,Buonanotte
+Casco,Buendia,Burrito Ortega,Pity Martinez,Tucu Pereyra
+Colo Barco,Ogro Fabianni,Palermo
+Tucu Pereyra
+Pezzella,Burrito Ortega,Dybala,Langoni,Cuti Romero,Changuito Zeballos,Zapelli
+Colo Barco,Messi,El fantasma de la B,Mauro Zarate,Riquelme
+Soule,Zapelli
+Dybala,Wachoffisde Abila
+Riquelme,Mauro Zarate
+Colo Barco,Ogro Fabianni,Gallardo,Buendia
+Soule,Beltran
+Palermo
+Colo Barco,Chiquito Romero,Gallardo,Beltran
+Soule,Burrito Ortega,Wachoffisde Abila
+Di Maria,Wachoffisde Abila,Gallardo,Changuito Zeballos,Colidio
+Soule,Zapelli
+Dybala,Colidio,El fantasma de la B
+Luka Romero,Barcon't,Pezzella,Dybala,Riquelme,Zapelli
+Mauro Zarate,Soule,Cuti Romero,Burrito Ortega,Pity Martinez,Chiquito Romero
+Buonanotte,Pezzella,Gallardo,Cuti Romero,Riquelme
+Dibu,Ogro Fabianni,Riquelme,Buonanotte
+Cuti Romero,Burrito Ortega,Gallardo,Dybala
+Riquelme,Tucu Pereyra,El fantasma de la B
+Dibu,Wachoffisde Abila,Beltran
+Buonanotte,Gallardo,El fantasma de la B
+Di Maria,Luka Romero,Gallardo,Dybala,Changuito Zeballos,Colidio,Zapelli
+Soule,Riquelme
+Di Maria,Changuito Zeballos,Pezzella,El fantasma de la B
+Colo Barco,Beltran,Gallardo,Simeone,Palermo
+Colo Barco,Dibu
+Soule,Chiquito Romero,Cuti Romero,El fantasma de la B
+Di Maria,Messi,Buendia,Pezzella,Ogro Fabianni,Simeone,Colidio
+Tucu Pereyra
+Armani,Pezzella,Palermo,Ogro Fabianni,Zapelli
+Di Maria,Armani,Pezzella,Chiquito Romero,Ogro Fabianni,Zapelli
+Buendia
+Riquelme,Tucu Pereyra
+Dibu,Barcon't,Soule,Burrito Ortega,Pezzella,Cuti Romero,Riquelme
+Colo Barco,Buonanotte,Zapelli,Dybala,Ogro Fabianni,Simeone,Palermo
+Armani,Burrito Ortega,Beltran,El fantasma de la B
+Beltran,Luka Romero,Barcon't,Buendia,Soule,Gallardo,Palermo
+Armani
+Colo Barco,Buonanotte,Gallardo,Tucu Pereyra,Dybala,Colidio

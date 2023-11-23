@@ -1,0 +1,11 @@
+Simeone,El fantasma de la B
+Barcon't,Wachoffisde Abila,El fantasma de la B
+Messi,Buendia,Wachoffisde Abila,Dybala,Chiquito Romero,Palermo
+Beltran
+Dibu,El fantasma de la B,Burrito Ortega,Tucu Pereyra,Dybala,Riquelme
+Dibu,Barcon't,Gallardo,Langoni,Ogro Fabianni,Zapelli
+Messi,Barcon't,Soule,Wachoffisde Abila,Changuito Zeballos
+Di Maria,Casco,Beltran,El fantasma de la B,Barcon't,Pezzella,Wachoffisde Abila
+Di Maria,Luka Romero,Mauro Zarate,Buendia,Pezzella,Langoni,Colidio
+Ogro Fabianni,Pezzella,Tucu Pereyra,El fantasma de la B
+Colo Barco,Tucu Pereyra,Palermo,El fantasma de la B

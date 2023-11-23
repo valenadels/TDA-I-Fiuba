@@ -1,0 +1,52 @@
+Simeone,Pity Martinez,Beltran
+Barcon't,Chiquito Romero,Pezzella,Luka Romero
+Casco,Messi,Beltran,Dybala,Zapelli,Colidio,Palermo
+Cuti Romero,Dybala
+Messi
+Casco,Luka Romero,Mauro Zarate,Soule,Wachoffisde Abila
+Di Maria,Dibu,Colo Barco,Pezzella,Pity Martinez,Ogro Fabianni
+Beltran,Barcon't,Pezzella,Pity Martinez,Langoni
+Barcon't,Simeone,Colidio
+Buendia,Pezzella
+Ogro Fabianni,Barcon't,Buendia,Pezzella,Changuito Zeballos
+Dibu,Messi,Soule,Chiquito Romero,Ogro Fabianni,Palermo
+Buendia,Changuito Zeballos,Mauro Zarate
+Luka Romero,Buonanotte,Soule,Burrito Ortega,Cuti Romero,Simeone
+Dibu,Buonanotte,Barcon't,Chiquito Romero,Cuti Romero
+Luka Romero,Buendia,Burrito Ortega,Wachoffisde Abila,Simeone
+Di Maria,Colo Barco,Casco,El fantasma de la B,Burrito Ortega,Tucu Pereyra
+Luka Romero
+Luka Romero,Mauro Zarate,Soule,Burrito Ortega,Cuti Romero,Colidio
+Colo Barco,Chiquito Romero,Changuito Zeballos
+Colo Barco
+Dibu,Cuti Romero,Casco
+Colo Barco,Casco,Armani,Chiquito Romero,Changuito Zeballos
+Tucu Pereyra,Buonanotte
+Buonanotte,El fantasma de la B,Buendia,Chiquito Romero,Colidio
+Dibu,Armani,Buendia,Pezzella,Chiquito Romero,Ogro Fabianni
+Colo Barco,Tucu Pereyra,Beltran
+Zapelli,Pezzella,Beltran
+Cuti Romero,Burrito Ortega,Simeone
+Dybala
+Dibu,Luka Romero,Gallardo,Buonanotte
+Chiquito Romero,Changuito Zeballos,Pezzella
+Beltran,Mauro Zarate,Zapelli,Riquelme,Simeone,Palermo
+Dibu,Cuti Romero,Armani,Buonanotte
+Chiquito Romero
+Messi,Beltran,Buonanotte,Mauro Zarate,Gallardo,Riquelme
+Ogro Fabianni,Messi,Burrito Ortega,Gallardo,Changuito Zeballos,Riquelme
+Armani,Messi,Langoni
+Buonanotte,Barcon't,Buendia,Burrito Ortega,Chiquito Romero
+Luka Romero,Burrito Ortega,Pezzella,Wachoffisde Abila,Pity Martinez,Gallardo
+El fantasma de la B
+Pezzella,Riquelme,Gallardo,Luka Romero
+Colo Barco,Buonanotte,Armani,Buendia,Simeone
+Zapelli,Riquelme,Gallardo,Palermo
+Cuti Romero,Tucu Pereyra
+Dibu,Messi,El fantasma de la B,Pity Martinez,Ogro Fabianni
+Colo Barco,Messi,Luka Romero,Burrito Ortega,Pezzella,Changuito Zeballos
+Colidio,Simeone,Zapelli,Buonanotte
+Dibu,Cuti Romero
+Casco,Messi,Beltran,Buonanotte,Mauro Zarate,Ogro Fabianni
+Dybala
+Colo Barco

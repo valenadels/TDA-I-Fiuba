@@ -1,0 +1,17 @@
+Barcon't,Chiquito Romero,Dybala
+Dibu,Pity Martinez
+Armani
+Colo Barco,Dibu,Luka Romero,Buendia,Pezzella,Simeone,Colidio
+Colo Barco,Cuti Romero,Buendia,Colidio
+Di Maria,Mauro Zarate,Buendia,Pezzella,Pity Martinez,Dybala,Simeone
+Beltran,Armani,Palermo,Wachoffisde Abila,Changuito Zeballos,Zapelli
+Colo Barco,Beltran,Buonanotte,Pity Martinez,Ogro Fabianni
+Buonanotte
+Colo Barco,Messi,Buonanotte,Barcon't,Langoni,Ogro Fabianni
+Dibu,Casco,Cuti Romero,Ogro Fabianni,Simeone
+Buendia,Gallardo,Tucu Pereyra
+Messi,Pezzella,Wachoffisde Abila,Chiquito Romero,Changuito Zeballos,Colidio
+Buonanotte,Barcon't,Mauro Zarate,Buendia,Burrito Ortega,Tucu Pereyra,Cuti Romero
+Chiquito Romero,Langoni
+Di Maria,Barcon't,Buendia,Wachoffisde Abila,Tucu Pereyra,Riquelme
+Soule,Barcon't
