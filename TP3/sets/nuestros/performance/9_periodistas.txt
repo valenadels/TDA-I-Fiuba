@@ -1,9 +1,9 @@
-Dibu,Barcon't,Armani,Buendia,Chiquito Romero
-Di Maria,Soule,Wachoffisde Abila,Gallardo,Changuito Zeballos,Simeone,Colidio
-Soule,Buonanotte
-Di Maria,Luka Romero,Gallardo,Wachoffisde Abila,Cuti Romero,Riquelme,Colidio
-Colo Barco,Dibu,Beltran,Barcon't,Tucu Pereyra,Langoni,Simeone
-Buonanotte,Armani,Cuti Romero,Ogro Fabianni,Colidio
-Messi,El fantasma de la B,Pezzella,Dybala,Zapelli,Colidio
-Colidio
-Ogro Fabianni,Mauro Zarate,Gallardo,Luka Romero
+Dibu,Barcon't,Burrito Ortega,Cuti Romero,Palermo
+Colo Barco,Tucu Pereyra,Chiquito Romero,Ogro Fabianni,Armani,Messi,Mauro Zarate
+Messi,Di Maria
+Tucu Pereyra,Chiquito Romero,Luka Romero,Ogro Fabianni,Wachoffisde Abila,Gallardo,Mauro Zarate
+Colo Barco,Dibu,Zapelli,El fantasma de la B,Burrito Ortega,Buonanotte,Langoni
+Dybala,Barcon't,Luka Romero,Mauro Zarate,Di Maria
+Riquelme,Changuito Zeballos,Casco,Beltran,Mauro Zarate,Pezzella
+Mauro Zarate
+Tucu Pereyra,Colidio,Dybala,Wachoffisde Abila

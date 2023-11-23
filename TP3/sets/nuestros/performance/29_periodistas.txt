@@ -1,29 +1,29 @@
-Armani,Ogro Fabianni,Palermo
-Armani,Ogro Fabianni,Pity Martinez,Palermo
-Buonanotte,Langoni,Wachoffisde Abila,Luka Romero
-Colo Barco,Pezzella,Mauro Zarate,Gallardo
-Messi,Buonanotte,Armani,Pezzella,Burrito Ortega,Langoni,Palermo
-El fantasma de la B,Mauro Zarate,Pity Martinez,Langoni,Cuti Romero,Ogro Fabianni,Zapelli
-Colo Barco,Di Maria,Messi,Beltran,Dybala,Ogro Fabianni,Simeone
-Di Maria,Cuti Romero,Tucu Pereyra,Chiquito Romero,Ogro Fabianni,Simeone
-Dibu,Pezzella,Riquelme
-Armani,Riquelme,Di Maria
-Beltran,Barcon't,Buendia,Tucu Pereyra,Chiquito Romero
-Chiquito Romero
-Dybala,Pity Martinez,Gallardo
-Armani,Pity Martinez,Beltran
-Messi,Beltran,Langoni,Colidio,Zapelli
-Soule,Riquelme,Casco
-Buendia,Ogro Fabianni,Pity Martinez
-Buendia
-Di Maria,Changuito Zeballos,Messi,Buonanotte
-Dybala,Casco,Gallardo,Colidio
-Cuti Romero,Pezzella
-Colo Barco,Riquelme,Di Maria
-Dibu,Pity Martinez,Wachoffisde Abila,Ogro Fabianni,Simeone
-Di Maria,Casco,Beltran,Mauro Zarate,Wachoffisde Abila,Changuito Zeballos
-Dybala,Riquelme,Colidio
-Colo Barco,Barcon't
-Armani,Luka Romero
-Pezzella,Langoni
-El fantasma de la B,Buendia,Burrito Ortega,Cuti Romero,Changuito Zeballos,Simeone
+Barcon't,Dybala,Pity Martinez
+Simeone,Barcon't,Dybala,Pity Martinez
+Ogro Fabianni,Wachoffisde Abila,Buonanotte,Di Maria
+Colidio,Tucu Pereyra,El fantasma de la B,Changuito Zeballos
+Soule,Barcon't,Changuito Zeballos,Casco,Buonanotte,Pity Martinez,Di Maria
+Dybala,Riquelme,Luka Romero,Buonanotte,Simeone,Colidio,Pezzella
+Colo Barco,Dybala,Chiquito Romero,Zapelli,El fantasma de la B,Casco,Beltran
+Colo Barco,Dybala,Chiquito Romero,Luka Romero,Langoni,Cuti Romero
+Gallardo,Changuito Zeballos,Dibu
+Barcon't,Chiquito Romero,Gallardo
+Zapelli,Burrito Ortega,Langoni,Cuti Romero,Palermo
+Cuti Romero
+Simeone,Tucu Pereyra,Beltran
+Barcon't,Zapelli,Simeone
+Zapelli,Casco,Buonanotte,Mauro Zarate,Pezzella
+Buendia,Messi,Gallardo
+Simeone,Dybala,Palermo
+Palermo
+Casco,Armani,Chiquito Romero,Di Maria
+Tucu Pereyra,Beltran,Mauro Zarate,Buendia
+Luka Romero,Changuito Zeballos
+El fantasma de la B,Chiquito Romero,Gallardo
+Colo Barco,Dybala,Dibu,Ogro Fabianni,Simeone
+Chiquito Romero,Buendia,Zapelli,Ogro Fabianni,Armani,Colidio
+Beltran,Mauro Zarate,Gallardo
+Burrito Ortega,El fantasma de la B
+Barcon't,Wachoffisde Abila
+Changuito Zeballos,Buonanotte
+Colo Barco,Soule,Riquelme,Luka Romero,Armani,Palermo

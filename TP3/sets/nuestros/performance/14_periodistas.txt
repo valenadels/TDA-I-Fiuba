@@ -1,14 +1,14 @@
-Beltran,Barcon't,Pity Martinez,Langoni,Simeone
-Barcon't,Cuti Romero,Buendia,Zapelli
-Di Maria,Langoni
-Di Maria,Chiquito Romero,Cuti Romero,Wachoffisde Abila
-Di Maria,Cuti Romero,Wachoffisde Abila,Beltran
-Casco,Zapelli
-El fantasma de la B
-Di Maria,Colo Barco,Changuito Zeballos
-Chiquito Romero,Zapelli,Burrito Ortega,Tucu Pereyra
-Cuti Romero,Gallardo,Wachoffisde Abila,Buonanotte
-Colo Barco,Riquelme,Gallardo,Luka Romero
-Gallardo,Luka Romero
-Pezzella
-Colo Barco,Colidio
+Colo Barco,Zapelli,Burrito Ortega,Buonanotte,Simeone
+Luka Romero,Pezzella,Burrito Ortega,Palermo
+Buonanotte,Chiquito Romero
+Ogro Fabianni,Cuti Romero,Chiquito Romero,Luka Romero
+Zapelli,Ogro Fabianni,Chiquito Romero,Luka Romero
+Pezzella,Buendia
+Riquelme
+Armani,El fantasma de la B,Chiquito Romero
+Soule,Cuti Romero,Langoni,Pezzella
+Luka Romero,Ogro Fabianni,Tucu Pereyra,Di Maria
+Wachoffisde Abila,Tucu Pereyra,El fantasma de la B,Gallardo
+Tucu Pereyra,Wachoffisde Abila
+Changuito Zeballos
+El fantasma de la B,Mauro Zarate

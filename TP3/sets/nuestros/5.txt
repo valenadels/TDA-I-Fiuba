@@ -1,5 +1,5 @@
-Di Maria,Messi,Beltran,Langoni
-Barcon't,Armani,Zapelli
-Buendia,Chiquito Romero,Luka Romero,El fantasma de la B
-Soule,Chiquito Romero,Gallardo,Langoni
-Barcon't,Dybala
+Casco,Zapelli,Chiquito Romero,Buonanotte
+Barcon't,Burrito Ortega,Pezzella
+Wachoffisde Abila,Cuti Romero,Riquelme,Palermo
+Tucu Pereyra,Messi,Buonanotte,Cuti Romero
+Beltran,Burrito Ortega

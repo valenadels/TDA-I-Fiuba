@@ -1,8 +1,8 @@
-Armani,El fantasma de la B,Burrito Ortega,Luka Romero
-Di Maria,Armani,Burrito Ortega,Cuti Romero,Simeone
-Buendia
-Changuito Zeballos,Casco,Langoni
-Chiquito Romero,Riquelme
-El fantasma de la B,Soule,Wachoffisde Abila,Pity Martinez,Ogro Fabianni
-Colo Barco,Messi,Casco,Wachoffisde Abila,Ogro Fabianni,Colidio,Palermo
-Ogro Fabianni
+Barcon't,Soule,Wachoffisde Abila,Riquelme
+Soule,Colo Barco,Chiquito Romero,Barcon't,Luka Romero
+Palermo
+Armani,Buonanotte,Buendia
+Cuti Romero,Gallardo
+Dybala,Riquelme,Ogro Fabianni,Simeone,Messi
+Dybala,Buendia,El fantasma de la B,Casco,Ogro Fabianni,Mauro Zarate,Pity Martinez
+Dybala

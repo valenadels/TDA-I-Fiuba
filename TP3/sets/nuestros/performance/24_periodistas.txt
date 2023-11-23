@@ -1,24 +1,24 @@
-Casco,Beltran
-Armani,El fantasma de la B,Burrito Ortega,Buonanotte
-Colo Barco,Buendia,Langoni,Barcon't
-Armani,Mauro Zarate,Messi
-Messi,Buonanotte,Mauro Zarate,Soule,Chiquito Romero,Changuito Zeballos
-Cuti Romero,Ogro Fabianni,Casco
-Armani,Colo Barco,Messi
-Casco,Messi,Buonanotte
-Beltran,Soule,Buendia,Chiquito Romero,Changuito Zeballos,Simeone
-Barcon't,Burrito Ortega,Colidio,Beltran
-Buonanotte,Cuti Romero,Colidio,Luka Romero
-Chiquito Romero,Burrito Ortega,Zapelli,El fantasma de la B
-Soule,Changuito Zeballos
-Mauro Zarate,Gallardo,Langoni,Chiquito Romero,Changuito Zeballos,Riquelme
-Colo Barco,Casco,Luka Romero,Burrito Ortega,Tucu Pereyra,Langoni,Dybala
-Messi,Luka Romero,Soule,Dybala,Zapelli
-Buendia,Pity Martinez,Gallardo
-Armani,Burrito Ortega,El fantasma de la B
-Di Maria,Colo Barco,Pezzella,Riquelme
-Dibu,Messi,Chiquito Romero,Soule,Burrito Ortega,Dybala
-Zapelli
-Luka Romero,Armani,Chiquito Romero,Changuito Zeballos,Zapelli
-Casco,Buonanotte,Mauro Zarate,Pezzella,Wachoffisde Abila,Chiquito Romero,Colidio
-Riquelme,Luka Romero,Zapelli,Buonanotte
+Zapelli,Buendia
+Barcon't,Soule,Riquelme,Di Maria
+Burrito Ortega,El fantasma de la B,Buonanotte,Palermo
+Barcon't,Casco,Colidio
+Casco,Armani,Colidio,Cuti Romero,Messi,Di Maria
+Luka Romero,Dybala,Buendia
+Barcon't,Casco,El fantasma de la B
+Casco,Di Maria,Buendia
+Colo Barco,Zapelli,Armani,Cuti Romero,Messi,Palermo
+Zapelli,Soule,Burrito Ortega,Mauro Zarate
+Luka Romero,Wachoffisde Abila,Mauro Zarate,Di Maria
+Soule,Cuti Romero,Riquelme,Pezzella
+Armani,Messi
+Tucu Pereyra,Buonanotte,Gallardo,Armani,Colidio,Cuti Romero
+Soule,Buendia,El fantasma de la B,Wachoffisde Abila,Beltran,Langoni,Buonanotte
+Casco,Wachoffisde Abila,Beltran,Messi,Pezzella
+Simeone,Tucu Pereyra,Palermo
+Barcon't,Soule,Riquelme
+Chiquito Romero,El fantasma de la B,Changuito Zeballos,Gallardo
+Soule,Dibu,Casco,Beltran,Cuti Romero,Messi
+Pezzella
+Barcon't,Wachoffisde Abila,Armani,Cuti Romero,Pezzella
+Buendia,Changuito Zeballos,Ogro Fabianni,Colidio,Cuti Romero,Mauro Zarate,Di Maria
+Pezzella,Wachoffisde Abila,Gallardo,Di Maria
