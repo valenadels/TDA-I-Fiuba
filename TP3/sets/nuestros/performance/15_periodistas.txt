@@ -1,15 +1,15 @@
-Armani
-Palermo,Buendia,El fantasma de la B,Luka Romero,Buonanotte,Pezzella
-Colo Barco,Cuti Romero,El fantasma de la B
-Dibu,Beltran,Langoni,Gallardo,Pity Martinez
-Barcon't
-Di Maria,Colo Barco,Pezzella
-El fantasma de la B,Pezzella
-Soule,Tucu Pereyra
-Palermo,Cuti Romero,Pezzella
-Soule,Ogro Fabianni,Gallardo,Simeone,Messi
 Colidio
-Dybala,Beltran,Buonanotte,Gallardo,Palermo
-Riquelme,Pity Martinez
-Burrito Ortega,Pity Martinez
-Tucu Pereyra,Chiquito Romero,Casco,Langoni,Gallardo,Armani,Palermo
+Beltran,Chiquito Romero,Pity Martinez,Tucu Pereyra,Mauro Zarate,Dybala
+Chiquito Romero,Messi,Barcon't
+Di Maria,Armani,Colo Barco,Dibu,Zapelli
+Changuito Zeballos
+Palermo,Dybala,Barcon't
+Chiquito Romero,Dybala
+Ogro Fabianni,Simeone
+Pity Martinez,Dybala,Messi
+Soule,Casco,Dibu,Simeone,Wachoffisde Abila
+Buonanotte
+Pity Martinez,Colo Barco,Dibu,Mauro Zarate,Cuti Romero
+Zapelli,El fantasma de la B
+Zapelli,Buendia
+Gallardo,Pity Martinez,Burrito Ortega,Armani,Dibu,Ogro Fabianni,Colidio

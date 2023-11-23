@@ -1,8 +1,8 @@
-Barcon't,Soule,Wachoffisde Abila,Riquelme
-Soule,Colo Barco,Chiquito Romero,Barcon't,Luka Romero
-Palermo
-Armani,Buonanotte,Buendia
-Cuti Romero,Gallardo
-Dybala,Riquelme,Ogro Fabianni,Simeone,Messi
-Dybala,Buendia,El fantasma de la B,Casco,Ogro Fabianni,Mauro Zarate,Pity Martinez
-Dybala
+Riquelme,Simeone,Changuito Zeballos,El fantasma de la B
+Gallardo,Changuito Zeballos,Tucu Pereyra,Simeone,Barcon't
+Pity Martinez
+Beltran,Colidio,Mauro Zarate
+Dibu,Messi
+El fantasma de la B,Soule,Casco,Wachoffisde Abila,Cuti Romero
+Beltran,Chiquito Romero,Burrito Ortega,Casco,Pezzella,Zapelli,Cuti Romero
+Cuti Romero

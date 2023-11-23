@@ -1,15 +1,15 @@
-Zapelli,Riquelme,Changuito Zeballos,Luka Romero,Beltran
-Colo Barco,Riquelme,Changuito Zeballos,Colidio,Cuti Romero
-Soule,Tucu Pereyra,Chiquito Romero,Buendia,Barcon't,Luka Romero,Ogro Fabianni,Beltran,Buonanotte,Langoni,Armani,Colidio,Palermo
-Dibu,Barcon't,Di Maria,Burrito Ortega,Langoni,Simeone,Colidio,Cuti Romero,Mauro Zarate,Pezzella
-Riquelme
-Colo Barco,Dybala,Buendia,Barcon't,Riquelme,El fantasma de la B,Changuito Zeballos,Ogro Fabianni,Wachoffisde Abila,Simeone,Armani,Colidio,Cuti Romero
-Colo Barco,Soule,Buendia,Riquelme,Ogro Fabianni,Langoni,Messi,Cuti Romero,Pity Martinez,Mauro Zarate
-Colidio,Riquelme,Dibu
-Soule,Ogro Fabianni
-Colo Barco,Soule,Barcon't,Luka Romero,Wachoffisde Abila,Burrito Ortega,Colidio,Cuti Romero,Mauro Zarate,Palermo
-Soule,Dybala,Dibu,Riquelme,Changuito Zeballos,Ogro Fabianni,Colidio,Messi,Pity Martinez,Palermo
-Wachoffisde Abila,Mauro Zarate,Gallardo
-Changuito Zeballos
-Barcon't,Zapelli,Casco,Ogro Fabianni,Beltran,Buonanotte,Armani,Cuti Romero,Di Maria
-Colo Barco,Dybala,Riquelme,Ogro Fabianni,Wachoffisde Abila,Burrito Ortega,Buonanotte,Armani,Colidio,Cuti Romero,Di Maria
+Luka Romero,El fantasma de la B,Colo Barco,Tucu Pereyra,Langoni
+El fantasma de la B,Buonanotte,Messi,Langoni,Barcon't
+Beltran,Gallardo,Changuito Zeballos,Pity Martinez,Buonanotte,Casco,Armani,Colo Barco,Tucu Pereyra,Simeone,Mauro Zarate,Ogro Fabianni,Colidio
+Di Maria,Changuito Zeballos,Buendia,Palermo,Buonanotte,Armani,Messi,Wachoffisde Abila,Pezzella,Dybala
+El fantasma de la B
+Beltran,Chiquito Romero,Riquelme,Barcon't,El fantasma de la B,Changuito Zeballos,Buonanotte,Casco,Messi,Langoni,Wachoffisde Abila,Colidio,Cuti Romero
+Beltran,El fantasma de la B,Soule,Casco,Armani,Simeone,Messi,Pezzella,Zapelli,Barcon't
+Buonanotte,Di Maria,El fantasma de la B
+Casco,Simeone
+Changuito Zeballos,Riquelme,Buendia,Pity Martinez,Buonanotte,Tucu Pereyra,Simeone,Messi,Pezzella,Barcon't
+Di Maria,El fantasma de la B,Pity Martinez,Buonanotte,Soule,Casco,Simeone,Langoni,Zapelli,Cuti Romero
+Pezzella,Dibu,Riquelme
+Langoni
+Luka Romero,Changuito Zeballos,Palermo,Burrito Ortega,Casco,Colo Barco,Mauro Zarate,Messi,Colidio
+Riquelme,El fantasma de la B,Buendia,Palermo,Buonanotte,Casco,Mauro Zarate,Messi,Cuti Romero,Colidio,Barcon't

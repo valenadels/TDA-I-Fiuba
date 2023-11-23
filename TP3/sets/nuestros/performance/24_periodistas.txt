@@ -1,24 +1,24 @@
-Zapelli,Buendia
-Barcon't,Soule,Riquelme,Di Maria
-Burrito Ortega,El fantasma de la B,Buonanotte,Palermo
-Barcon't,Casco,Colidio
-Casco,Armani,Colidio,Cuti Romero,Messi,Di Maria
-Luka Romero,Dybala,Buendia
-Barcon't,Casco,El fantasma de la B
-Casco,Di Maria,Buendia
-Colo Barco,Zapelli,Armani,Cuti Romero,Messi,Palermo
-Zapelli,Soule,Burrito Ortega,Mauro Zarate
-Luka Romero,Wachoffisde Abila,Mauro Zarate,Di Maria
-Soule,Cuti Romero,Riquelme,Pezzella
-Armani,Messi
-Tucu Pereyra,Buonanotte,Gallardo,Armani,Colidio,Cuti Romero
-Soule,Buendia,El fantasma de la B,Wachoffisde Abila,Beltran,Langoni,Buonanotte
-Casco,Wachoffisde Abila,Beltran,Messi,Pezzella
-Simeone,Tucu Pereyra,Palermo
-Barcon't,Soule,Riquelme
-Chiquito Romero,El fantasma de la B,Changuito Zeballos,Gallardo
-Soule,Dibu,Casco,Beltran,Cuti Romero,Messi
-Pezzella
-Barcon't,Wachoffisde Abila,Armani,Cuti Romero,Pezzella
-Buendia,Changuito Zeballos,Ogro Fabianni,Colidio,Cuti Romero,Mauro Zarate,Di Maria
-Pezzella,Wachoffisde Abila,Gallardo,Di Maria
+Beltran,Luka Romero
+Changuito Zeballos,Simeone,El fantasma de la B,Palermo
+Pity Martinez,Chiquito Romero,Mauro Zarate,Buendia
+Buonanotte,Burrito Ortega,Changuito Zeballos
+Palermo,Buonanotte,Soule,Burrito Ortega,Messi,Colidio
+Beltran,Tucu Pereyra,Cuti Romero
+Burrito Ortega,Chiquito Romero,Changuito Zeballos
+Beltran,Burrito Ortega,Palermo
+Luka Romero,Pity Martinez,Soule,Messi,Colidio,Barcon't
+Pezzella,Luka Romero,Simeone,Buendia
+Pezzella,Tucu Pereyra,Riquelme,Palermo
+Dybala,Simeone,El fantasma de la B,Messi
+Soule,Colidio
+Buonanotte,Dibu,Mauro Zarate,Messi,Ogro Fabianni,Colidio
+Beltran,Chiquito Romero,Riquelme,Armani,Colo Barco,Simeone,Mauro Zarate
+Riquelme,Soule,Burrito Ortega,Colo Barco,Dybala
+Ogro Fabianni,Pity Martinez,Wachoffisde Abila
+Simeone,Changuito Zeballos,El fantasma de la B
+Langoni,Gallardo,Chiquito Romero,Dibu
+Di Maria,Soule,Burrito Ortega,Colo Barco,Simeone,Messi
+Dybala
+Riquelme,Changuito Zeballos,Messi,Dybala,Colidio
+Beltran,Palermo,Buonanotte,Casco,Messi,Pezzella,Langoni
+Dybala,Riquelme,Dibu,Palermo

@@ -1,94 +1,94 @@
-Luka Romero,Beltran,Gallardo,Armani,Mauro Zarate,Pezzella
-Colidio,Zapelli,Luka Romero,Messi
-Palermo,Colo Barco,Tucu Pereyra,Beltran,Messi,Di Maria
-Dybala,Tucu Pereyra,Dibu,Riquelme,Casco,Langoni,Simeone
-Buendia,Beltran,Gallardo
-Colo Barco,Chiquito Romero,Beltran,Burrito Ortega,Cuti Romero
-Ogro Fabianni,Pity Martinez
-Barcon't,Burrito Ortega,Beltran,Messi
-Riquelme,Changuito Zeballos,Ogro Fabianni,Buonanotte,Gallardo,Di Maria
-Beltran
-Barcon't,Pity Martinez,Gallardo
-Buendia,Riquelme,Changuito Zeballos,Buonanotte,Armani,Messi
-Casco,Wachoffisde Abila,Burrito Ortega
-Colidio,Chiquito Romero
-Barcon't,Colo Barco,El fantasma de la B,Messi
-Armani
-Casco,Luka Romero,Simeone,Cuti Romero,Pity Martinez
-Tucu Pereyra
-Wachoffisde Abila
-Langoni
-Colo Barco,Barcon't,Riquelme,Casco,Colidio,Cuti Romero
-Buendia,Wachoffisde Abila,Beltran,Langoni,Pity Martinez,Di Maria
-Pity Martinez,Dibu,Palermo
-El fantasma de la B
-Dibu,Langoni,Buonanotte,Messi,Di Maria
-Soule,Dybala,Chiquito Romero
-Casco,Luka Romero,Pezzella
-Zapelli
-Barcon't,Dibu,Simeone
-Simeone,Pity Martinez
+Tucu Pereyra,Colo Barco,Dibu,Pezzella,Dybala,Colidio
+Tucu Pereyra,Buonanotte,Soule,Luka Romero
+Palermo,Pity Martinez,Soule,Colo Barco,Ogro Fabianni,Barcon't
+Di Maria,El fantasma de la B,Burrito Ortega,Armani,Ogro Fabianni,Wachoffisde Abila,Cuti Romero
+Colo Barco,Dibu,Beltran
+Gallardo,Buendia,Colo Barco,Messi,Barcon't
+Zapelli,Casco
+Colo Barco,Soule,Changuito Zeballos,Buendia
+El fantasma de la B,Palermo,Casco,Dibu,Mauro Zarate,Langoni
+Colo Barco
+Zapelli,Dibu,Changuito Zeballos
+Beltran,El fantasma de la B,Soule,Mauro Zarate,Langoni,Colidio
+Burrito Ortega,Riquelme,Buendia
+Buonanotte,Gallardo
+Soule,Chiquito Romero,Changuito Zeballos,Barcon't
+Colidio
+Burrito Ortega,Tucu Pereyra,Messi,Zapelli,Wachoffisde Abila
 Ogro Fabianni
-Chiquito Romero,Di Maria
-Barcon't,El fantasma de la B,Luka Romero,Burrito Ortega,Colidio,Di Maria
-Buendia,Changuito Zeballos,Langoni,Messi,Simeone,Pity Martinez,Palermo
+Riquelme
 Armani
-Colo Barco,Changuito Zeballos,Beltran,Gallardo,Simeone,Armani,Cuti Romero
-Riquelme,El fantasma de la B,Changuito Zeballos,Luka Romero,Ogro Fabianni,Gallardo
-Riquelme,Buonanotte,Simeone,Colidio,Messi
-Dybala,Dibu,Riquelme,El fantasma de la B,Burrito Ortega,Langoni,Palermo
-Pity Martinez,Langoni
-Barcon't,Wachoffisde Abila,Riquelme,Mauro Zarate
-Chiquito Romero,Riquelme,Changuito Zeballos,Messi,Pity Martinez,Di Maria
-Buendia,Zapelli,El fantasma de la B,Burrito Ortega,Simeone
-Simeone,Dybala,Beltran,Buonanotte
-Luka Romero,Pity Martinez,Ogro Fabianni
-Tucu Pereyra,Pezzella
-Chiquito Romero,Luka Romero,Ogro Fabianni,Beltran,Gallardo,Simeone,Cuti Romero
-Casco,Soule,Ogro Fabianni,Barcon't
-Buonanotte
-Colo Barco,Colidio,Pity Martinez,Luka Romero
-Tucu Pereyra
-Chiquito Romero,Burrito Ortega,Buonanotte,Simeone,Palermo
-Palermo,Colo Barco,Riquelme,Pezzella,Beltran,Di Maria
+Changuito Zeballos,El fantasma de la B,Buonanotte,Burrito Ortega,Messi,Barcon't
+Beltran,Riquelme,Palermo,Armani,Colo Barco,Zapelli
+Pity Martinez,Zapelli,Di Maria
 Chiquito Romero
-Soule,Luka Romero,Messi
-Dybala,Mauro Zarate,Pezzella
-Langoni
-Tucu Pereyra,Gallardo
-Casco,Armani,Riquelme,Changuito Zeballos
-Ogro Fabianni,Chiquito Romero,Pezzella
-Colo Barco,El fantasma de la B,Burrito Ortega,Armani,Colidio
-Simeone,Beltran,Buonanotte
-Barcon't,Zapelli,Luka Romero,Mauro Zarate
-Tucu Pereyra,Buendia,Barcon't,El fantasma de la B,Pezzella,Palermo
-Casco,Dybala,El fantasma de la B,Changuito Zeballos
-Pity Martinez
-Zapelli,Wachoffisde Abila,Burrito Ortega,Langoni,Cuti Romero,Di Maria
-Luka Romero,Cuti Romero,Mauro Zarate,Palermo
-Colo Barco,Chiquito Romero,Buendia,Dibu,Luka Romero
-Di Maria,Dibu,Gallardo
-Soule
-Barcon't,Zapelli,Burrito Ortega,Langoni,Buonanotte,Colidio,Pity Martinez
-Di Maria
-Barcon't,El fantasma de la B,Casco,Ogro Fabianni,Mauro Zarate,Palermo
-Colo Barco,Dybala,Buendia,Luka Romero,Cuti Romero,Mauro Zarate,Palermo
-Colidio,Zapelli,Luka Romero,Palermo
-Casco,Soule
-El fantasma de la B
-Soule,Langoni,Mauro Zarate,Changuito Zeballos
-Armani,El fantasma de la B,Wachoffisde Abila,Pity Martinez
-Barcon't,Zapelli,Pity Martinez,Buendia
-Soule,Zapelli,Burrito Ortega,Gallardo,Simeone,Messi
-Barcon't,Casco
-Soule,Colo Barco,Riquelme,Changuito Zeballos,Wachoffisde Abila,Armani
-Casco,Colo Barco,Changuito Zeballos,Langoni
-Soule,Zapelli,El fantasma de la B,Buonanotte,Simeone
+Di Maria,Palermo,Soule,Armani,Mauro Zarate
+Gallardo,Simeone,Cuti Romero
+Tucu Pereyra,Burrito Ortega,Dybala
+Luka Romero
+Di Maria,Wachoffisde Abila,Changuito Zeballos
+Zapelli,Wachoffisde Abila
+Casco
+Gallardo,Palermo
+Chiquito Romero,Changuito Zeballos,Palermo,Buendia,Buonanotte,Tucu Pereyra
+Beltran,Pity Martinez,Soule,Armani,Langoni,Zapelli,Wachoffisde Abila
+Colidio
+Colo Barco,Dibu,Messi,Langoni,Wachoffisde Abila,Colidio,Barcon't
+Chiquito Romero,El fantasma de la B,Casco,Tucu Pereyra,Dibu,Langoni
+El fantasma de la B,Buonanotte,Soule,Mauro Zarate,Wachoffisde Abila
+Di Maria,Chiquito Romero,El fantasma de la B,Buendia,Pity Martinez,Armani,Cuti Romero
+Zapelli,Armani
+Pezzella,Riquelme,Changuito Zeballos,El fantasma de la B
+Gallardo,El fantasma de la B,Palermo,Soule,Langoni,Zapelli
+Beltran,Chiquito Romero,Luka Romero,Buendia,Wachoffisde Abila
+Colo Barco,Wachoffisde Abila,Mauro Zarate,Cuti Romero
+Tucu Pereyra,Zapelli,Casco
+Ogro Fabianni,Dybala
+Gallardo,Casco,Colo Barco,Tucu Pereyra,Dibu,Messi,Wachoffisde Abila
+Burrito Ortega,Casco,Simeone,Changuito Zeballos
+Mauro Zarate
+Tucu Pereyra,Buonanotte,Zapelli,Barcon't
+Ogro Fabianni
+Gallardo,Buendia,Pity Martinez,Mauro Zarate,Wachoffisde Abila
+El fantasma de la B,Palermo,Pity Martinez,Colo Barco,Dybala,Barcon't
+Gallardo
+Tucu Pereyra,Soule,Simeone
+Pezzella,Dybala,Cuti Romero
+Armani
+Ogro Fabianni,Dibu
+Langoni,Burrito Ortega,Colidio,El fantasma de la B
+Gallardo,Casco,Dybala
+Chiquito Romero,Buendia,Buonanotte,Colidio,Barcon't
+Colo Barco,Wachoffisde Abila,Mauro Zarate
+Tucu Pereyra,Pezzella,Luka Romero,Changuito Zeballos
+Beltran,Chiquito Romero,Changuito Zeballos,Pity Martinez,Ogro Fabianni,Dybala
+Langoni,Burrito Ortega,Chiquito Romero,Cuti Romero
+Zapelli
+Luka Romero,Riquelme,Buendia,Palermo,Armani,Messi
+Pity Martinez,Tucu Pereyra,Pezzella,Messi
+Beltran,Di Maria,Gallardo,Tucu Pereyra,Barcon't
+Di Maria,Dibu,Palermo
+Simeone
+Luka Romero,Changuito Zeballos,Buendia,Buonanotte,Armani,Mauro Zarate,Zapelli
+Palermo
+Chiquito Romero,Changuito Zeballos,Pity Martinez,Burrito Ortega,Casco,Pezzella
+Beltran,Pity Martinez,Tucu Pereyra,Cuti Romero,Messi,Pezzella,Barcon't
+Tucu Pereyra,Buonanotte,Pity Martinez,Luka Romero
+Burrito Ortega,Simeone
+Chiquito Romero
+Pezzella,Langoni,Armani,Simeone
+Zapelli,Chiquito Romero,Colidio,Riquelme
+Beltran,Zapelli,Luka Romero,Changuito Zeballos
+Luka Romero,Buendia,Soule,Simeone,Dibu,Wachoffisde Abila
+Burrito Ortega,Changuito Zeballos
+El fantasma de la B,Riquelme,Simeone,Langoni,Colidio,Barcon't
+Langoni,Burrito Ortega,Armani,Barcon't
+Chiquito Romero,Luka Romero,Simeone,Mauro Zarate,Wachoffisde Abila
+Beltran
+Buonanotte,Colidio,Mauro Zarate
+Gallardo,Luka Romero,Buendia,Pity Martinez,Armani
+Chiquito Romero,Gallardo,Buonanotte,Casco,Langoni
 Buendia
-Armani,Colidio,Buonanotte
-Chiquito Romero,Zapelli,Burrito Ortega,Langoni,Palermo
-Chiquito Romero,El fantasma de la B,Changuito Zeballos,Ogro Fabianni,Colidio
-Burrito Ortega
-El fantasma de la B,Langoni
-Soule,El fantasma de la B,Casco,Langoni,Buonanotte,Simeone,Pity Martinez
-Chiquito Romero,Barcon't,Changuito Zeballos,Wachoffisde Abila,Armani,Di Maria
+Chiquito Romero,Armani
+Chiquito Romero,Burrito Ortega,Armani,Simeone,Mauro Zarate,Zapelli,Wachoffisde Abila
+Gallardo,Riquelme,Changuito Zeballos,Palermo,Langoni,Colidio

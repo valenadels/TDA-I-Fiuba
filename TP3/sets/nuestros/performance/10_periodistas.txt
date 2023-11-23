@@ -1,10 +1,10 @@
-Luka Romero,Changuito Zeballos
-Simeone,Dybala,Beltran,Messi
-Chiquito Romero,Barcon't,Burrito Ortega,Buonanotte,Armani,Cuti Romero
-Barcon't,Wachoffisde Abila
-Changuito Zeballos,Langoni,Armani,Colidio,Cuti Romero,Mauro Zarate
-Soule,El fantasma de la B
-Soule,Buendia,Wachoffisde Abila,Buonanotte,Pezzella
-Burrito Ortega
-Langoni,Di Maria
-Dybala,Riquelme,Wachoffisde Abila,Beltran,Messi
+Tucu Pereyra,Langoni
+Colo Barco,Soule,Wachoffisde Abila,Cuti Romero
+Gallardo,Changuito Zeballos,Buendia,Mauro Zarate,Messi,Colidio
+Changuito Zeballos,Riquelme
+Buonanotte,Armani,Messi,Pezzella,Langoni,Colidio
+Chiquito Romero,Simeone
+Beltran,Riquelme,Simeone,Mauro Zarate,Dybala
+Buendia
+Armani,Palermo
+Riquelme,El fantasma de la B,Soule,Colo Barco,Cuti Romero

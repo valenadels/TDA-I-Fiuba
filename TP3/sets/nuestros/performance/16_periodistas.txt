@@ -1,16 +1,16 @@
-El fantasma de la B,Changuito Zeballos
-Colo Barco,Ogro Fabianni,Beltran
-Buendia,Colidio,Chiquito Romero,Palermo
-Messi,Chiquito Romero
-Simeone,Ogro Fabianni,Tucu Pereyra
-Simeone,Dibu
-Simeone,Burrito Ortega,Pezzella
-Dybala
-Buendia,El fantasma de la B,Chiquito Romero,Pezzella
-Tucu Pereyra,Mauro Zarate,Dibu
-Barcon't,Ogro Fabianni,Pezzella
-Luka Romero,Riquelme
-Colidio,Luka Romero,Changuito Zeballos
-Colo Barco,Dybala,Dibu,Riquelme,Beltran,Cuti Romero
-Zapelli,Chiquito Romero
-Pezzella,Pity Martinez,Dibu,Gallardo
+Langoni,Chiquito Romero
+Colo Barco,Casco,Barcon't
+Pity Martinez,Buonanotte,Gallardo,Beltran
+Soule,Gallardo
+Ogro Fabianni,Casco,Wachoffisde Abila
+Di Maria,Wachoffisde Abila
+Dybala,Wachoffisde Abila,Buendia
+Cuti Romero
+Beltran,Chiquito Romero,Dybala,Gallardo
+Pezzella,Di Maria,Ogro Fabianni
+Casco,Dybala,Changuito Zeballos
+Tucu Pereyra,El fantasma de la B
+Tucu Pereyra,Buonanotte,Langoni
+Di Maria,El fantasma de la B,Colo Barco,Cuti Romero,Messi,Barcon't
+Gallardo,Luka Romero
+Dybala,Zapelli,Di Maria,Dibu
