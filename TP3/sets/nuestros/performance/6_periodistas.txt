@@ -1,6 +1,6 @@
-Casco,Buendia,Tucu Pereyra,El fantasma de la B
-Barcon't,Zapelli,Chiquito Romero,Pity Martinez,Langoni
-Buonanotte
-Colidio,Armani
-Buendia,Gallardo,Mauro Zarate
-Armani
+Armani,Riquelme,Changuito Zeballos,Luka Romero
+Gallardo,Pezzella,Ogro Fabianni,Beltran,Palermo
+Tucu Pereyra
+Zapelli,Simeone
+Barcon't,Buonanotte,Changuito Zeballos
+Simeone

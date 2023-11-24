@@ -1,28 +1,28 @@
-Soule,Dybala,Simeone
-Buonanotte
-Dibu,Casco,Gallardo,Pity Martinez,Simeone
-Zapelli
-Messi,Chiquito Romero,Simeone
-Di Maria,Buonanotte,Chiquito Romero,Changuito Zeballos
-Burrito Ortega,Pezzella,Beltran,Riquelme,Di Maria,Simeone
-Soule,Wachoffisde Abila,Simeone
-Zapelli,Dibu,Casco,Pezzella,Beltran
-Armani,Chiquito Romero,Simeone
-Buendia,Beltran
-Riquelme,El fantasma de la B
-Riquelme,Buendia,Buonanotte,Barcon't
-Wachoffisde Abila,Barcon't,Chiquito Romero,Changuito Zeballos
-Wachoffisde Abila,Zapelli,Gallardo,Pezzella,Mauro Zarate
-Wachoffisde Abila,Buonanotte
-Palermo
-Ogro Fabianni,Wachoffisde Abila,Dibu
-Changuito Zeballos
-Barcon't
-Gallardo,Pezzella,Buonanotte,Changuito Zeballos
-Wachoffisde Abila,Gallardo,El fantasma de la B
-Armani,Pezzella,Beltran,Mauro Zarate,Di Maria
-Ogro Fabianni,Buendia
-Zapelli,Messi
-Buonanotte
-Buendia,Barcon't,Pezzella,Simeone
-El fantasma de la B
+Langoni,Chiquito Romero,Colidio
+Tucu Pereyra
+Mauro Zarate,Buonanotte,Riquelme,Langoni,Palermo
+Pezzella
+Burrito Ortega,Langoni,Ogro Fabianni
+Casco,Ogro Fabianni,Tucu Pereyra,Colo Barco
+Di Maria,Messi,Cuti Romero,Dybala,Colo Barco,Langoni
+Buendia,Langoni,Chiquito Romero
+Mauro Zarate,Riquelme,Messi,Pezzella,Dybala
+Ogro Fabianni,Langoni,Simeone
+Dybala,Changuito Zeballos
+Cuti Romero,Armani
+Cuti Romero,Gallardo,Tucu Pereyra,Changuito Zeballos
+Buendia,Casco,Gallardo,Ogro Fabianni
+Buendia,Buonanotte,Messi,Pezzella,Barcon't
+Buendia,Tucu Pereyra
+Dibu
+Buendia,Mauro Zarate,Wachoffisde Abila
+Casco
+Gallardo
+Messi,Casco,Buonanotte,Tucu Pereyra
+Buendia,Buonanotte,Armani
+Simeone,Messi,Dybala,Barcon't,Colo Barco
+Changuito Zeballos,Wachoffisde Abila
+Burrito Ortega,Pezzella
+Tucu Pereyra
+Messi,Langoni,Gallardo,Changuito Zeballos
+Armani

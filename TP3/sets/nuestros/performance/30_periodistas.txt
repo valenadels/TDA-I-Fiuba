@@ -1,30 +1,30 @@
-El fantasma de la B,Changuito Zeballos,Palermo,Tucu Pereyra,Di Maria,Simeone
-Riquelme,Armani,Chiquito Romero
-Buonanotte,Mauro Zarate,Messi,Ogro Fabianni,Armani,Simeone
-Cuti Romero,Pity Martinez,Messi
-Riquelme,Di Maria
-Soule,Buendia,Simeone,Zapelli
-El fantasma de la B,Palermo,Pity Martinez,Simeone
-Pezzella
-Wachoffisde Abila,Buonanotte
-Burrito Ortega,Casco,Riquelme,Mauro Zarate,Di Maria
-Casco,Mauro Zarate,Changuito Zeballos,Dybala
-Casco,Burrito Ortega
-Cuti Romero,Dybala,Colidio,Ogro Fabianni,Mauro Zarate
-Zapelli,Dibu,Colo Barco,Gallardo,Chiquito Romero
-Dybala
-Soule,Palermo,Cuti Romero
-Pezzella,Luka Romero,Dybala
-Colidio,Barcon't,Mauro Zarate
-Changuito Zeballos,Gallardo,Chiquito Romero,Beltran,Soule,Di Maria
-Colo Barco,Changuito Zeballos,Palermo,Messi,Riquelme
-Wachoffisde Abila,Casco,Palermo,Chiquito Romero,Riquelme,Ogro Fabianni,Di Maria
-Burrito Ortega,El fantasma de la B,Pezzella,Chiquito Romero,Langoni,Riquelme,Ogro Fabianni
-Colidio,Mauro Zarate,Pezzella,Zapelli
-Barcon't
-Di Maria,Zapelli
-Riquelme,Luka Romero
-Dibu,Di Maria,Gallardo,Zapelli
-Casco
-Zapelli,Tucu Pereyra,Beltran,Ogro Fabianni,Armani
-Soule,Dibu,Dybala,Burrito Ortega
+Casco,Dibu,Luka Romero,Colo Barco,Armani,Langoni
+Cuti Romero,Ogro Fabianni,Simeone
+Simeone,Wachoffisde Abila,Burrito Ortega,Tucu Pereyra,Barcon't,Langoni
+El fantasma de la B,Burrito Ortega,Palermo
+Cuti Romero,Colo Barco
+Pezzella,Chiquito Romero,Langoni,Changuito Zeballos
+Armani,Langoni,Palermo,Dibu
+Messi
+Buendia,Tucu Pereyra
+Di Maria,Riquelme,Cuti Romero,Barcon't,Colo Barco
+Barcon't,Casco,Riquelme,Colidio
+Di Maria,Riquelme
+El fantasma de la B,Wachoffisde Abila,Colidio,Barcon't,Zapelli
+Mauro Zarate,Pity Martinez,Buonanotte,Pezzella,Ogro Fabianni
+Colidio
+El fantasma de la B,Chiquito Romero,Dibu
+Messi,Soule,Colidio
+Barcon't,Zapelli,Gallardo
+Casco,Buonanotte,Ogro Fabianni,Dybala,Colo Barco,Chiquito Romero
+Casco,Pity Martinez,Dibu,Burrito Ortega,Cuti Romero
+Buendia,Dibu,Wachoffisde Abila,Riquelme,Cuti Romero,Ogro Fabianni,Colo Barco
+Wachoffisde Abila,Di Maria,Cuti Romero,Messi,Ogro Fabianni,Beltran,Armani
+Barcon't,Zapelli,Pezzella,Messi
+Gallardo
+Colo Barco,Pezzella
+Cuti Romero,Soule
+Buonanotte,Mauro Zarate,Pezzella,Colo Barco
+Riquelme
+Simeone,Wachoffisde Abila,Luka Romero,Pezzella,Dybala
+Mauro Zarate,Chiquito Romero,Colidio,Di Maria

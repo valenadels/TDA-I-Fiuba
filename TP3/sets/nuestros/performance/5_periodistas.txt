@@ -1,5 +1,5 @@
-Buendia,Dybala,Casco,Buonanotte,Tucu Pereyra,Colidio
-Wachoffisde Abila,Dibu,Pezzella,Langoni,Messi,Colidio
-Buendia,Simeone
-Dibu,Di Maria,Cuti Romero,Tucu Pereyra
-Burrito Ortega,Riquelme,Casco,Soule,Mauro Zarate
+Tucu Pereyra,Colidio,Riquelme,Changuito Zeballos,Luka Romero,Zapelli
+Buendia,Mauro Zarate,Burrito Ortega,Messi,Beltran,Zapelli
+Langoni,Changuito Zeballos
+El fantasma de la B,Colo Barco,Mauro Zarate,Luka Romero
+Di Maria,Riquelme,Cuti Romero,Barcon't,Chiquito Romero

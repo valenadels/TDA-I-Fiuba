@@ -1,7 +1,7 @@
-Barcon't,Burrito Ortega,Dibu,Buonanotte,Chiquito Romero,Colidio
-Buendia,Messi,Zapelli
-Pity Martinez,Dybala
-Di Maria,Dibu,Cuti Romero,Beltran
-Ogro Fabianni,Chiquito Romero,Tucu Pereyra
-Zapelli,Colo Barco,Palermo,Pity Martinez,Armani
-Di Maria,Messi,Dybala
+Mauro Zarate,Di Maria,Gallardo,Tucu Pereyra,Ogro Fabianni,Zapelli
+Burrito Ortega,Pezzella,Changuito Zeballos
+Palermo,Colidio
+El fantasma de la B,Colo Barco,Mauro Zarate,Dybala
+Wachoffisde Abila,Ogro Fabianni,Luka Romero
+Pity Martinez,Simeone,Dibu,Pezzella,Palermo
+Burrito Ortega,Colo Barco,Colidio

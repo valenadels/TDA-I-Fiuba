@@ -1,13 +1,13 @@
-Buendia,Zapelli,Casco,Gallardo,Langoni,Messi
-Burrito Ortega,Dibu,Changuito Zeballos,Dybala,Riquelme,Soule,Mauro Zarate
-Casco,Armani,Di Maria,Burrito Ortega
-Burrito Ortega,Dybala,Gallardo,Pezzella,Pity Martinez,Mauro Zarate
-Zapelli,Gallardo,Buonanotte,Pity Martinez,Di Maria,Simeone
-Dybala,Gallardo,Pezzella,Tucu Pereyra,Ogro Fabianni,Simeone
-Buendia,Zapelli,Dibu,Gallardo,Luka Romero,Langoni
-Buendia,Colo Barco,Casco,Gallardo,Luka Romero,Langoni,Simeone
-Riquelme
-Soule
-Riquelme,Wachoffisde Abila,Simeone
-Riquelme,Barcon't,Pezzella,Langoni
-Colo Barco,Changuito Zeballos
+Buonanotte,Burrito Ortega,Riquelme,Changuito Zeballos,Pezzella,Beltran
+Mauro Zarate,Casco,Di Maria,Colidio,Cuti Romero,Barcon't,Chiquito Romero
+Colo Barco,Di Maria,Simeone,Riquelme
+Buonanotte,Di Maria,Colidio,Messi,Barcon't,Palermo
+Buonanotte,Tucu Pereyra,Pezzella,Colo Barco,Langoni,Palermo
+Buonanotte,Wachoffisde Abila,Colidio,Luka Romero,Messi,Langoni
+Mauro Zarate,Buonanotte,Changuito Zeballos,Pezzella,Beltran,Soule
+Pity Martinez,Buonanotte,Riquelme,Changuito Zeballos,Beltran,Soule,Langoni
+Cuti Romero
+Chiquito Romero
+Cuti Romero,Langoni,Buendia
+Messi,Gallardo,Cuti Romero,Beltran
+Casco,Pity Martinez

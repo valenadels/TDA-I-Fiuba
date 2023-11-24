@@ -1,51 +1,51 @@
-Buendia,El fantasma de la B,Langoni,Colidio,Armani,Di Maria
-Gallardo
-Palermo,Luka Romero
-Buendia,Colo Barco,Changuito Zeballos,Buonanotte,Ogro Fabianni,Di Maria
-Soule,Armani,Changuito Zeballos,Zapelli
-Burrito Ortega,El fantasma de la B,Dibu,Buonanotte,Pity Martinez,Soule
-Barcon't,Colo Barco,Gallardo,Luka Romero,Chiquito Romero
-Zapelli,Tucu Pereyra,Dybala,Casco,Pity Martinez,Beltran
-Casco,Barcon't,Simeone
-Wachoffisde Abila,Di Maria,Messi
-Cuti Romero,Zapelli,El fantasma de la B,Dibu,Ogro Fabianni
-Riquelme,Changuito Zeballos,Beltran
-Casco,Chiquito Romero
-Burrito Ortega,Dybala,Buonanotte,Messi,Simeone
-Soule,Ogro Fabianni,Buendia
-El fantasma de la B,Changuito Zeballos
-Di Maria,Burrito Ortega
-Riquelme,Armani,Chiquito Romero,Changuito Zeballos
-Wachoffisde Abila,Dybala,Buonanotte,Tucu Pereyra,Ogro Fabianni,Armani
-Riquelme,Beltran,Burrito Ortega
-Cuti Romero
-Cuti Romero,Dybala,Pezzella,Messi,Riquelme,Di Maria
-Ogro Fabianni,Mauro Zarate,Di Maria,Burrito Ortega
-Riquelme,Armani,Pity Martinez,Burrito Ortega
-Langoni
-Casco
-Colidio,Ogro Fabianni,Mauro Zarate,Armani
-Riquelme,Barcon't
-Colidio,Gallardo,Cuti Romero
-Colo Barco,Gallardo,Palermo,Luka Romero,Riquelme,Mauro Zarate
-Dibu,Dybala,Pezzella,Luka Romero,Buonanotte,Mauro Zarate,Di Maria
-Colidio,Armani,Changuito Zeballos
-Wachoffisde Abila,Armani,Cuti Romero
-Buendia,Palermo,Cuti Romero,Beltran
-Wachoffisde Abila,Zapelli,Casco,Langoni,Simeone
-Burrito Ortega,Zapelli,Gallardo,Pity Martinez,Messi
-Messi
-Wachoffisde Abila,El fantasma de la B,Colo Barco,Dybala,Buonanotte,Riquelme,Armani
-Dibu,Pezzella,Buonanotte,Pity Martinez,Messi,Di Maria,Simeone
-Casco,Changuito Zeballos
-Barcon't,Colo Barco,Beltran
-El fantasma de la B,Casco,Pezzella,Mauro Zarate,Beltran,Armani
-Wachoffisde Abila,Colo Barco,Casco,Luka Romero,Pity Martinez,Colidio
-Di Maria,Cuti Romero,Chiquito Romero,Langoni
-Wachoffisde Abila,Chiquito Romero,Tucu Pereyra
-Barcon't,Pezzella
-Colo Barco
-Dibu,Pezzella,Changuito Zeballos
-Beltran,Tucu Pereyra
-Colidio,Barcon't,Gallardo,Pity Martinez
-Casco,Cuti Romero,Messi
+Simeone,Changuito Zeballos,Beltran,Armani,Zapelli,Colo Barco
+Buonanotte
+Soule,Dibu
+Casco,Pity Martinez,Wachoffisde Abila,Tucu Pereyra,Changuito Zeballos,Colo Barco
+Pezzella,Chiquito Romero,Simeone,Casco
+Mauro Zarate,Di Maria,Tucu Pereyra,Palermo,Armani,Chiquito Romero
+Pity Martinez,Buonanotte,Gallardo,Ogro Fabianni,Soule
+Colidio,Riquelme,Luka Romero,Pezzella,Dybala,Palermo
+Langoni,Gallardo,Riquelme
+Burrito Ortega,Colo Barco,Buendia
+Mauro Zarate,Wachoffisde Abila,Pezzella,Armani,El fantasma de la B
+Cuti Romero,Casco,Dybala
+Ogro Fabianni,Riquelme
+Burrito Ortega,Di Maria,Tucu Pereyra,Colidio,Langoni
+Chiquito Romero,Changuito Zeballos,Wachoffisde Abila
+Armani,Casco
+Colo Barco,Di Maria
+Cuti Romero,Casco,Ogro Fabianni,Simeone
+Buendia,Simeone,Wachoffisde Abila,Colidio,Tucu Pereyra,Luka Romero
+Cuti Romero,Di Maria,Dybala
+El fantasma de la B
+Burrito Ortega,Colidio,Cuti Romero,Messi,El fantasma de la B,Colo Barco
+Barcon't,Colo Barco,Di Maria,Wachoffisde Abila
+Cuti Romero,Palermo,Simeone,Di Maria
+Beltran
+Riquelme
+Barcon't,Zapelli,Simeone,Wachoffisde Abila
+Cuti Romero,Gallardo
+El fantasma de la B,Zapelli,Buonanotte
+Pity Martinez,Buonanotte,Dibu,Cuti Romero,Barcon't,Soule
+Mauro Zarate,Colidio,Tucu Pereyra,Messi,Colo Barco,Barcon't,Soule
+Zapelli,Casco,Simeone
+Buendia,Simeone,El fantasma de la B
+Changuito Zeballos,Dibu,Dybala,El fantasma de la B
+Buendia,Riquelme,Pezzella,Beltran,Langoni
+Buonanotte,Burrito Ortega,Di Maria,Pezzella,Palermo
+Burrito Ortega
+Buendia,Pity Martinez,Simeone,Colidio,Tucu Pereyra,Cuti Romero,Armani
+Mauro Zarate,Burrito Ortega,Tucu Pereyra,Messi,Colo Barco,Palermo,Langoni
+Casco,Riquelme
+Pity Martinez,Gallardo,Dybala
+Barcon't,Simeone,Riquelme,Messi,Dybala,Armani
+Buendia,Pity Martinez,Riquelme,Zapelli,Soule,Palermo
+El fantasma de la B,Colo Barco,Ogro Fabianni,Beltran
+Buendia,Ogro Fabianni,Luka Romero
+Messi,Gallardo
+Pity Martinez
+Messi,Casco,Mauro Zarate
+Dybala,Luka Romero
+Zapelli,Palermo,Buonanotte,Gallardo
+El fantasma de la B,Burrito Ortega,Riquelme

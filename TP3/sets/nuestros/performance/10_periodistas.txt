@@ -1,10 +1,10 @@
-Burrito Ortega,Dybala
-Casco,Barcon't,Buonanotte,Zapelli
-El fantasma de la B,Soule,Pezzella,Riquelme,Ogro Fabianni,Di Maria
-Soule,Palermo
-Burrito Ortega,Tucu Pereyra,Pezzella,Langoni,Messi,Di Maria
-Wachoffisde Abila,Armani
-Cuti Romero,Palermo,Riquelme,Armani,Simeone
-Ogro Fabianni
-Colidio,Tucu Pereyra
-Barcon't,Zapelli,Gallardo,Palermo,Buonanotte
+Di Maria,Colidio
+Pezzella,Gallardo,Riquelme,Tucu Pereyra
+Wachoffisde Abila,Messi,Cuti Romero,Armani,Colo Barco,Chiquito Romero
+Chiquito Romero,Dibu
+Burrito Ortega,Di Maria,Luka Romero,Messi,Beltran,Colo Barco
+Buendia,Simeone
+Simeone,Dibu,Cuti Romero,El fantasma de la B,Langoni
+Wachoffisde Abila
+Zapelli,Luka Romero
+Buonanotte,Dibu,Gallardo,Tucu Pereyra,Pezzella

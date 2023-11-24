@@ -1,24 +1,24 @@
-Cuti Romero,Changuito Zeballos
-Colidio,Armani,Gallardo,Soule
-Riquelme,Wachoffisde Abila,Ogro Fabianni,Pity Martinez
-Soule,Dibu,Messi
-Barcon't,Dibu,Pezzella,Messi,Colidio,Di Maria
-Cuti Romero,Dybala,Zapelli
-Soule,Wachoffisde Abila,Dibu
-Colidio,Dibu,Cuti Romero
-Barcon't,Changuito Zeballos,Pezzella,Pity Martinez,Mauro Zarate,Di Maria
-Ogro Fabianni,Armani,Langoni,Changuito Zeballos
-Colidio,Palermo,Langoni,Dybala
-Armani,Di Maria,Gallardo,Simeone
-Barcon't,Pezzella
-Buendia,Pezzella,Chiquito Romero,Messi,Riquelme,Di Maria
-Wachoffisde Abila,Cuti Romero,Palermo,Buonanotte,Tucu Pereyra,Riquelme,Armani
-Barcon't,Dibu,Palermo,Buonanotte,Simeone
-Casco,Buendia,Pity Martinez
-Soule,Armani,Gallardo
-El fantasma de la B,Wachoffisde Abila,Chiquito Romero,Burrito Ortega
-Barcon't,Dibu,Luka Romero,Buonanotte,Armani,Di Maria
-Simeone
-Palermo,Pezzella,Soule,Di Maria,Simeone
-Cuti Romero,Burrito Ortega,Colo Barco,Langoni,Messi,Colidio,Di Maria
-Colidio,Palermo,Chiquito Romero,Simeone
+El fantasma de la B,Casco
+Buonanotte,Zapelli,Chiquito Romero,Simeone
+Buendia,Palermo,Cuti Romero,Wachoffisde Abila
+Burrito Ortega,Mauro Zarate,Chiquito Romero
+Mauro Zarate,Burrito Ortega,Gallardo,Messi,Zapelli,Colo Barco
+El fantasma de la B,Pezzella,Colidio
+Buendia,Mauro Zarate,Chiquito Romero
+El fantasma de la B,Zapelli,Mauro Zarate
+Casco,Gallardo,Messi,Barcon't,Colo Barco,Palermo
+Casco,Simeone,Beltran,Wachoffisde Abila
+Zapelli,Colidio,Dibu,Beltran
+Buonanotte,Langoni,Simeone,Colo Barco
+Messi,Gallardo
+Burrito Ortega,Changuito Zeballos,Messi,Cuti Romero,Ogro Fabianni,Colo Barco
+Buendia,Simeone,Dibu,Tucu Pereyra,Luka Romero,Cuti Romero,El fantasma de la B
+Mauro Zarate,Dibu,Gallardo,Tucu Pereyra,Langoni
+Palermo,Riquelme,Changuito Zeballos
+Buonanotte,Chiquito Romero,Simeone
+Armani,Di Maria,Ogro Fabianni,Buendia
+Mauro Zarate,Simeone,Gallardo,Tucu Pereyra,Colo Barco,Soule
+Langoni
+Dibu,Messi,Colo Barco,Chiquito Romero,Langoni
+Pity Martinez,Burrito Ortega,Di Maria,Beltran,El fantasma de la B,Zapelli,Colo Barco
+Zapelli,Langoni,Ogro Fabianni,Dibu
