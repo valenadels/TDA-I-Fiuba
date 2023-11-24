@@ -1,5 +1,5 @@
-Riquelme,El fantasma de la B,Dibu,Changuito Zeballos
-Soule,Ogro Fabianni,Simeone
-Gallardo,Di Maria,Palermo,Pity Martinez
-Riquelme,Buendia,Di Maria,Barcon't
-Ogro Fabianni,Buonanotte
+Dybala,Messi,Burrito Ortega,Simeone
+Riquelme,Langoni,Tucu Pereyra
+Colidio,Pity Martinez,Ogro Fabianni,Chiquito Romero
+Barcon't,Pity Martinez,Changuito Zeballos,Burrito Ortega
+Mauro Zarate,Riquelme

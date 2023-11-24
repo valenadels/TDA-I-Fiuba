@@ -1,15 +1,15 @@
-Burrito Ortega,Changuito Zeballos,Dybala,Gallardo,Buonanotte
-Burrito Ortega,Gallardo,Messi,Mauro Zarate,Di Maria
-Buendia,Cuti Romero,El fantasma de la B,Soule,Colo Barco,Dybala,Pezzella,Buonanotte,Pity Martinez,Tucu Pereyra,Riquelme,Armani,Messi
-Tucu Pereyra,Casco,Colidio,Luka Romero,Langoni,Messi,Soule,Ogro Fabianni,Di Maria,Simeone
-Gallardo
-Wachoffisde Abila,Cuti Romero,Zapelli,Burrito Ortega,Colo Barco,Casco,Palermo,Gallardo,Pezzella,Messi,Soule,Mauro Zarate,Di Maria
-Barcon't,Cuti Romero,Tucu Pereyra,Colo Barco,Gallardo,Mauro Zarate,Langoni,Beltran,Armani,Di Maria
-Gallardo,Luka Romero,Messi
-Armani,Colo Barco
-Armani,Dybala,Palermo,Pity Martinez,Messi,Soule,Ogro Fabianni,Mauro Zarate,Di Maria,Langoni
-Barcon't,Burrito Ortega,Zapelli,Beltran,Colo Barco,Gallardo,Luka Romero,Pity Martinez,Messi,Armani
-Palermo,Chiquito Romero,Langoni
-Burrito Ortega
-Soule,Colo Barco,Dibu,Changuito Zeballos,Riquelme,Pezzella,Buonanotte,Colidio,Di Maria
-Zapelli,Colo Barco,Colidio,Palermo,Pezzella,Gallardo,Messi,Riquelme,Ogro Fabianni,Mauro Zarate,Di Maria
+Dybala,Colidio,Dibu,Zapelli,Mauro Zarate
+Colo Barco,Colidio,Dibu,Pity Martinez,Luka Romero
+Buendia,Colo Barco,Chiquito Romero,Di Maria,Barcon't,Burrito Ortega,Pezzella,Simeone,Zapelli,Mauro Zarate,Cuti Romero,Langoni,Casco
+Colo Barco,Palermo,Pezzella,Pity Martinez,El fantasma de la B,Gallardo,Langoni,Armani,Riquelme,Tucu Pereyra
+Colidio
+Beltran,Buendia,Colo Barco,Colidio,Buonanotte,Dibu,Ogro Fabianni,Pity Martinez,El fantasma de la B,Cuti Romero,Langoni,Luka Romero,Casco
+Buendia,Colidio,Di Maria,Changuito Zeballos,Pezzella,Pity Martinez,Armani,Luka Romero,Casco,Soule
+Colidio,Colo Barco,Gallardo
+Di Maria,Buendia
+Colo Barco,Chiquito Romero,Di Maria,Ogro Fabianni,Zapelli,Pity Martinez,Langoni,Armani,Luka Romero,Riquelme
+Colo Barco,Buendia,Chiquito Romero,Colidio,Changuito Zeballos,Buonanotte,Di Maria,Dibu,Gallardo,Soule
+Armani,Wachoffisde Abila,Ogro Fabianni
+Dibu
+Messi,Buendia,Palermo,Dybala,Burrito Ortega,Mauro Zarate,Pity Martinez,Cuti Romero,Langoni
+Buendia,Colo Barco,Palermo,Colidio,Buonanotte,Ogro Fabianni,Burrito Ortega,Pity Martinez,Cuti Romero,Luka Romero,Riquelme
