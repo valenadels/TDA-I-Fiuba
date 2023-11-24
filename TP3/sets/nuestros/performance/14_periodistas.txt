@@ -1,14 +1,14 @@
-Luka Romero,Buendia,Mauro Zarate,Wachoffisde Abila,Barcon't
-Pity Martinez,Tucu Pereyra,Dybala,Buendia
-Gallardo,Mauro Zarate
-Tucu Pereyra,Gallardo,Casco,Messi
-Tucu Pereyra,Gallardo,Casco,Luka Romero
-Beltran,Dybala
-El fantasma de la B
-Gallardo,Chiquito Romero,Colidio
-Dybala,Simeone,Armani,Messi
-Ogro Fabianni,Tucu Pereyra,Casco,Palermo
-Ogro Fabianni,Chiquito Romero,Dibu,Riquelme
-Ogro Fabianni,Riquelme
-Langoni
-Pezzella,Chiquito Romero
+Changuito Zeballos,Casco,Riquelme,Ogro Fabianni,Mauro Zarate
+Ogro Fabianni,Dybala,Pity Martinez,Simeone
+Riquelme,El fantasma de la B
+El fantasma de la B,Di Maria,Colo Barco,Dybala
+El fantasma de la B,Colo Barco,Changuito Zeballos,Dybala
+Cuti Romero,Simeone
+Gallardo
+El fantasma de la B,Wachoffisde Abila,Pezzella
+Armani,Di Maria,Simeone,Tucu Pereyra
+Colidio,Buendia,Colo Barco,Dybala
+Wachoffisde Abila,Buendia,Chiquito Romero,Palermo
+Buendia,Palermo
+Burrito Ortega
+Wachoffisde Abila,Langoni

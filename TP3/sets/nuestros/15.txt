@@ -1,15 +1,15 @@
-Luka Romero,El fantasma de la B,Colo Barco,Tucu Pereyra,Langoni
-El fantasma de la B,Buonanotte,Messi,Langoni,Barcon't
-Beltran,Gallardo,Changuito Zeballos,Pity Martinez,Buonanotte,Casco,Armani,Colo Barco,Tucu Pereyra,Simeone,Mauro Zarate,Ogro Fabianni,Colidio
-Di Maria,Changuito Zeballos,Buendia,Palermo,Buonanotte,Armani,Messi,Wachoffisde Abila,Pezzella,Dybala
-El fantasma de la B
-Beltran,Chiquito Romero,Riquelme,Barcon't,El fantasma de la B,Changuito Zeballos,Buonanotte,Casco,Messi,Langoni,Wachoffisde Abila,Colidio,Cuti Romero
-Beltran,El fantasma de la B,Soule,Casco,Armani,Simeone,Messi,Pezzella,Zapelli,Barcon't
-Buonanotte,Di Maria,El fantasma de la B
-Casco,Simeone
-Changuito Zeballos,Riquelme,Buendia,Pity Martinez,Buonanotte,Tucu Pereyra,Simeone,Messi,Pezzella,Barcon't
-Di Maria,El fantasma de la B,Pity Martinez,Buonanotte,Soule,Casco,Simeone,Langoni,Zapelli,Cuti Romero
-Pezzella,Dibu,Riquelme
-Langoni
-Luka Romero,Changuito Zeballos,Palermo,Burrito Ortega,Casco,Colo Barco,Mauro Zarate,Messi,Colidio
-Riquelme,El fantasma de la B,Buendia,Palermo,Buonanotte,Casco,Mauro Zarate,Messi,Cuti Romero,Colidio,Barcon't
+Burrito Ortega,Changuito Zeballos,Dybala,Gallardo,Buonanotte
+Burrito Ortega,Gallardo,Messi,Mauro Zarate,Di Maria
+Buendia,Cuti Romero,El fantasma de la B,Soule,Colo Barco,Dybala,Pezzella,Buonanotte,Pity Martinez,Tucu Pereyra,Riquelme,Armani,Messi
+Tucu Pereyra,Casco,Colidio,Luka Romero,Langoni,Messi,Soule,Ogro Fabianni,Di Maria,Simeone
+Gallardo
+Wachoffisde Abila,Cuti Romero,Zapelli,Burrito Ortega,Colo Barco,Casco,Palermo,Gallardo,Pezzella,Messi,Soule,Mauro Zarate,Di Maria
+Barcon't,Cuti Romero,Tucu Pereyra,Colo Barco,Gallardo,Mauro Zarate,Langoni,Beltran,Armani,Di Maria
+Gallardo,Luka Romero,Messi
+Armani,Colo Barco
+Armani,Dybala,Palermo,Pity Martinez,Messi,Soule,Ogro Fabianni,Mauro Zarate,Di Maria,Langoni
+Barcon't,Burrito Ortega,Zapelli,Beltran,Colo Barco,Gallardo,Luka Romero,Pity Martinez,Messi,Armani
+Palermo,Chiquito Romero,Langoni
+Burrito Ortega
+Soule,Colo Barco,Dibu,Changuito Zeballos,Riquelme,Pezzella,Buonanotte,Colidio,Di Maria
+Zapelli,Colo Barco,Colidio,Palermo,Pezzella,Gallardo,Messi,Riquelme,Ogro Fabianni,Mauro Zarate,Di Maria

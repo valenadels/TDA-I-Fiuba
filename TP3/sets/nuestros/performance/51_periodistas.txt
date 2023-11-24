@@ -1,51 +1,51 @@
-Gallardo,Palermo,Simeone,Messi,Pezzella,Ogro Fabianni
-El fantasma de la B
-Di Maria,Riquelme
-Luka Romero,Buendia,Casco,Colo Barco,Messi,Ogro Fabianni
-Luka Romero,Changuito Zeballos,Simeone,Cuti Romero
-Gallardo,Changuito Zeballos,Pity Martinez,Burrito Ortega,Colo Barco,Langoni
-Di Maria,El fantasma de la B,Soule,Casco,Dibu
-Pity Martinez,Armani,Tucu Pereyra,Zapelli,Wachoffisde Abila,Cuti Romero
-Soule,Dybala,Wachoffisde Abila
-Buonanotte,Chiquito Romero,Messi
-Beltran,Gallardo,Buendia,Burrito Ortega,Cuti Romero
-Zapelli,Luka Romero,Mauro Zarate
-Dibu,Wachoffisde Abila
-Buonanotte,Tucu Pereyra,Colo Barco,Langoni,Dybala
-Ogro Fabianni,Changuito Zeballos,Buendia
-Gallardo,Luka Romero
-Langoni,Messi
-Luka Romero,Dibu,Mauro Zarate,Simeone
-Chiquito Romero,Buendia,Armani,Colo Barco,Tucu Pereyra,Simeone
-Langoni,Zapelli,Mauro Zarate
-Beltran
-Beltran,Buonanotte,Tucu Pereyra,Mauro Zarate,Messi,Colidio
-Langoni,Messi,Barcon't,Buendia
-Pity Martinez,Langoni,Simeone,Mauro Zarate
-Pezzella
-Wachoffisde Abila
-Barcon't,Simeone,Buendia,Palermo
-Soule,Mauro Zarate
-Beltran,El fantasma de la B,Palermo
-Di Maria,Riquelme,El fantasma de la B,Casco,Mauro Zarate,Barcon't
-Di Maria,Burrito Ortega,Colo Barco,Tucu Pereyra,Messi,Colidio,Barcon't
-Luka Romero,Simeone,Palermo
-Beltran,Chiquito Romero,Simeone
-Ogro Fabianni,Zapelli,Riquelme,Beltran
-Chiquito Romero,Wachoffisde Abila,Pezzella,Dybala,Cuti Romero
-El fantasma de la B,Pity Martinez,Buonanotte,Langoni,Cuti Romero
-Buonanotte
-Chiquito Romero,Gallardo,Casco,Tucu Pereyra,Colo Barco,Simeone,Mauro Zarate
-Pity Martinez,Buonanotte,Burrito Ortega,Colo Barco,Messi,Dybala,Colidio
-Luka Romero,Wachoffisde Abila
-Zapelli,Soule,Casco
-Gallardo,Simeone,Zapelli,Wachoffisde Abila,Colidio,Barcon't
-Di Maria,Chiquito Romero,Palermo,Pity Martinez,Casco,Wachoffisde Abila
-Pezzella,Dibu,Beltran,Messi
-Armani,Chiquito Romero,Dibu
-Soule,Colidio
+Buendia,El fantasma de la B,Langoni,Colidio,Armani,Di Maria
+Gallardo
+Palermo,Luka Romero
+Buendia,Colo Barco,Changuito Zeballos,Buonanotte,Ogro Fabianni,Di Maria
+Soule,Armani,Changuito Zeballos,Zapelli
+Burrito Ortega,El fantasma de la B,Dibu,Buonanotte,Pity Martinez,Soule
+Barcon't,Colo Barco,Gallardo,Luka Romero,Chiquito Romero
+Zapelli,Tucu Pereyra,Dybala,Casco,Pity Martinez,Beltran
+Casco,Barcon't,Simeone
+Wachoffisde Abila,Di Maria,Messi
+Cuti Romero,Zapelli,El fantasma de la B,Dibu,Ogro Fabianni
+Riquelme,Changuito Zeballos,Beltran
+Casco,Chiquito Romero
+Burrito Ortega,Dybala,Buonanotte,Messi,Simeone
+Soule,Ogro Fabianni,Buendia
+El fantasma de la B,Changuito Zeballos
+Di Maria,Burrito Ortega
+Riquelme,Armani,Chiquito Romero,Changuito Zeballos
+Wachoffisde Abila,Dybala,Buonanotte,Tucu Pereyra,Ogro Fabianni,Armani
+Riquelme,Beltran,Burrito Ortega
+Cuti Romero
+Cuti Romero,Dybala,Pezzella,Messi,Riquelme,Di Maria
+Ogro Fabianni,Mauro Zarate,Di Maria,Burrito Ortega
+Riquelme,Armani,Pity Martinez,Burrito Ortega
+Langoni
 Casco
-Burrito Ortega,Luka Romero,Colidio
-Zapelli,Armani
-Pity Martinez,Soule,El fantasma de la B,Palermo
-Beltran,Buonanotte,Wachoffisde Abila
+Colidio,Ogro Fabianni,Mauro Zarate,Armani
+Riquelme,Barcon't
+Colidio,Gallardo,Cuti Romero
+Colo Barco,Gallardo,Palermo,Luka Romero,Riquelme,Mauro Zarate
+Dibu,Dybala,Pezzella,Luka Romero,Buonanotte,Mauro Zarate,Di Maria
+Colidio,Armani,Changuito Zeballos
+Wachoffisde Abila,Armani,Cuti Romero
+Buendia,Palermo,Cuti Romero,Beltran
+Wachoffisde Abila,Zapelli,Casco,Langoni,Simeone
+Burrito Ortega,Zapelli,Gallardo,Pity Martinez,Messi
+Messi
+Wachoffisde Abila,El fantasma de la B,Colo Barco,Dybala,Buonanotte,Riquelme,Armani
+Dibu,Pezzella,Buonanotte,Pity Martinez,Messi,Di Maria,Simeone
+Casco,Changuito Zeballos
+Barcon't,Colo Barco,Beltran
+El fantasma de la B,Casco,Pezzella,Mauro Zarate,Beltran,Armani
+Wachoffisde Abila,Colo Barco,Casco,Luka Romero,Pity Martinez,Colidio
+Di Maria,Cuti Romero,Chiquito Romero,Langoni
+Wachoffisde Abila,Chiquito Romero,Tucu Pereyra
+Barcon't,Pezzella
+Colo Barco
+Dibu,Pezzella,Changuito Zeballos
+Beltran,Tucu Pereyra
+Colidio,Barcon't,Gallardo,Pity Martinez
+Casco,Cuti Romero,Messi

@@ -1,5 +1,5 @@
-Palermo,Armani,Tucu Pereyra,Colo Barco,Ogro Fabianni,Wachoffisde Abila
-Chiquito Romero,Palermo,Buonanotte,Burrito Ortega,Pezzella,Colidio
-Ogro Fabianni,Dybala
-Beltran,Burrito Ortega,Armani,Messi
-Changuito Zeballos,Mauro Zarate,Langoni,Wachoffisde Abila,Barcon't
+Buendia,Dybala,Casco,Buonanotte,Tucu Pereyra,Colidio
+Wachoffisde Abila,Dibu,Pezzella,Langoni,Messi,Colidio
+Buendia,Simeone
+Dibu,Di Maria,Cuti Romero,Tucu Pereyra
+Burrito Ortega,Riquelme,Casco,Soule,Mauro Zarate

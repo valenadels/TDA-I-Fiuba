@@ -1,7 +1,7 @@
-Palermo,Burrito Ortega,Soule,Colo Barco,Dibu,Langoni
-Ogro Fabianni,Buonanotte,Cuti Romero
-Pity Martinez,Tucu Pereyra
-Beltran,Zapelli,Burrito Ortega,Messi
-Armani,Dibu,Buendia
-Riquelme,Pity Martinez,Casco,Simeone,Cuti Romero
-Tucu Pereyra,Buonanotte,Messi
+Barcon't,Burrito Ortega,Dibu,Buonanotte,Chiquito Romero,Colidio
+Buendia,Messi,Zapelli
+Pity Martinez,Dybala
+Di Maria,Dibu,Cuti Romero,Beltran
+Ogro Fabianni,Chiquito Romero,Tucu Pereyra
+Zapelli,Colo Barco,Palermo,Pity Martinez,Armani
+Di Maria,Messi,Dybala

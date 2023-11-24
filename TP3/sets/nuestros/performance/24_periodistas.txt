@@ -1,24 +1,24 @@
-Beltran,Luka Romero
-Changuito Zeballos,Simeone,El fantasma de la B,Palermo
-Pity Martinez,Chiquito Romero,Mauro Zarate,Buendia
-Buonanotte,Burrito Ortega,Changuito Zeballos
-Palermo,Buonanotte,Soule,Burrito Ortega,Messi,Colidio
-Beltran,Tucu Pereyra,Cuti Romero
-Burrito Ortega,Chiquito Romero,Changuito Zeballos
-Beltran,Burrito Ortega,Palermo
-Luka Romero,Pity Martinez,Soule,Messi,Colidio,Barcon't
-Pezzella,Luka Romero,Simeone,Buendia
-Pezzella,Tucu Pereyra,Riquelme,Palermo
-Dybala,Simeone,El fantasma de la B,Messi
-Soule,Colidio
-Buonanotte,Dibu,Mauro Zarate,Messi,Ogro Fabianni,Colidio
-Beltran,Chiquito Romero,Riquelme,Armani,Colo Barco,Simeone,Mauro Zarate
-Riquelme,Soule,Burrito Ortega,Colo Barco,Dybala
-Ogro Fabianni,Pity Martinez,Wachoffisde Abila
-Simeone,Changuito Zeballos,El fantasma de la B
-Langoni,Gallardo,Chiquito Romero,Dibu
-Di Maria,Soule,Burrito Ortega,Colo Barco,Simeone,Messi
-Dybala
-Riquelme,Changuito Zeballos,Messi,Dybala,Colidio
-Beltran,Palermo,Buonanotte,Casco,Messi,Pezzella,Langoni
-Dybala,Riquelme,Dibu,Palermo
+Cuti Romero,Changuito Zeballos
+Colidio,Armani,Gallardo,Soule
+Riquelme,Wachoffisde Abila,Ogro Fabianni,Pity Martinez
+Soule,Dibu,Messi
+Barcon't,Dibu,Pezzella,Messi,Colidio,Di Maria
+Cuti Romero,Dybala,Zapelli
+Soule,Wachoffisde Abila,Dibu
+Colidio,Dibu,Cuti Romero
+Barcon't,Changuito Zeballos,Pezzella,Pity Martinez,Mauro Zarate,Di Maria
+Ogro Fabianni,Armani,Langoni,Changuito Zeballos
+Colidio,Palermo,Langoni,Dybala
+Armani,Di Maria,Gallardo,Simeone
+Barcon't,Pezzella
+Buendia,Pezzella,Chiquito Romero,Messi,Riquelme,Di Maria
+Wachoffisde Abila,Cuti Romero,Palermo,Buonanotte,Tucu Pereyra,Riquelme,Armani
+Barcon't,Dibu,Palermo,Buonanotte,Simeone
+Casco,Buendia,Pity Martinez
+Soule,Armani,Gallardo
+El fantasma de la B,Wachoffisde Abila,Chiquito Romero,Burrito Ortega
+Barcon't,Dibu,Luka Romero,Buonanotte,Armani,Di Maria
+Simeone
+Palermo,Pezzella,Soule,Di Maria,Simeone
+Cuti Romero,Burrito Ortega,Colo Barco,Langoni,Messi,Colidio,Di Maria
+Colidio,Palermo,Chiquito Romero,Simeone

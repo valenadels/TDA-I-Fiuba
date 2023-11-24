@@ -1,8 +1,8 @@
-Riquelme,Simeone,Changuito Zeballos,El fantasma de la B
-Gallardo,Changuito Zeballos,Tucu Pereyra,Simeone,Barcon't
+Soule,Armani,Gallardo,Palermo
+El fantasma de la B,Dybala,Mauro Zarate,Soule,Armani
 Pity Martinez
-Beltran,Colidio,Mauro Zarate
-Dibu,Messi
-El fantasma de la B,Soule,Casco,Wachoffisde Abila,Cuti Romero
-Beltran,Chiquito Romero,Burrito Ortega,Casco,Pezzella,Zapelli,Cuti Romero
-Cuti Romero
+Riquelme,Pezzella,Cuti Romero
+Di Maria,Chiquito Romero
+Barcon't,Zapelli,Colo Barco,Casco,Gallardo
+Wachoffisde Abila,Cuti Romero,Zapelli,Dibu,Colo Barco,Langoni,Beltran
+Zapelli

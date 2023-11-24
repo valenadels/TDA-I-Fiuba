@@ -1,26 +1,26 @@
-Ogro Fabianni,Colo Barco,Soule,Riquelme
-Chiquito Romero,Riquelme,Palermo,Simeone,Barcon't
-Colo Barco,Changuito Zeballos,Messi,Buendia
-Casco
-Ogro Fabianni,Chiquito Romero,Casco,Armani
-Tucu Pereyra,Barcon't
-Changuito Zeballos,Riquelme,Buonanotte,Burrito Ortega,Simeone,Messi
-Chiquito Romero,Colo Barco,Simeone,Mauro Zarate,Dybala,Cuti Romero
-Gallardo,Palermo,Colo Barco,Langoni,Wachoffisde Abila,Colidio
-Pity Martinez,Burrito Ortega,Armani,Buendia
-Colo Barco,Mauro Zarate
-Changuito Zeballos,Messi
-Beltran,Luka Romero,Burrito Ortega,Wachoffisde Abila,Barcon't
-Beltran,Riquelme,Buendia,Buonanotte,Burrito Ortega,Barcon't
-El fantasma de la B,Soule,Dibu,Ogro Fabianni,Dybala,Cuti Romero
-Riquelme,Palermo,Buonanotte,Casco,Dibu,Pezzella
-Simeone,El fantasma de la B,Barcon't,Palermo
-Colo Barco,Di Maria,Luka Romero,Messi
-Colo Barco,Buonanotte,Burrito Ortega,Wachoffisde Abila
-Buendia,Burrito Ortega,Dibu,Mauro Zarate,Wachoffisde Abila
-Riquelme,El fantasma de la B,Casco,Simeone,Wachoffisde Abila,Pezzella,Dybala
-Langoni,Zapelli,Di Maria,El fantasma de la B
-Dibu,Simeone,Messi,Wachoffisde Abila,Barcon't
-Luka Romero,Changuito Zeballos
-Riquelme,Buendia,Buonanotte,Burrito Ortega,Casco
-Chiquito Romero,Luka Romero,Riquelme
+Buendia,Buonanotte,Barcon't,Palermo
+Wachoffisde Abila,Armani,Palermo,Colidio,Mauro Zarate
+Soule,Ogro Fabianni,Di Maria,Buonanotte
+Colo Barco
+Wachoffisde Abila,Buendia,Colo Barco,Tucu Pereyra
+Mauro Zarate,Dybala
+Dibu,Palermo,Messi,Soule,Armani,Di Maria
+Wachoffisde Abila,Zapelli,Buonanotte,Riquelme,Armani,Simeone
+Burrito Ortega,El fantasma de la B,Casco,Pezzella,Buonanotte,Colidio
+Ogro Fabianni,Dibu,Pity Martinez,Tucu Pereyra
+Riquelme,Buonanotte
+Soule,Di Maria
+Cuti Romero,Dibu,Changuito Zeballos,Casco,Mauro Zarate
+Cuti Romero,Dibu,Palermo,Messi,Ogro Fabianni,Mauro Zarate
+Buendia,Barcon't,Zapelli,Gallardo,Chiquito Romero,Simeone
+Colo Barco,Palermo,Chiquito Romero,Langoni,Messi,Colidio
+Colidio,Armani,Gallardo,Mauro Zarate
+Di Maria,Luka Romero,Buonanotte,Changuito Zeballos
+Casco,Dibu,Buonanotte,Messi
+Dibu,Casco,Chiquito Romero,Riquelme,Ogro Fabianni
+Colo Barco,Casco,Palermo,Gallardo,Langoni,Armani,Simeone
+Beltran,Gallardo,Luka Romero,Burrito Ortega
+Armani,Casco,Chiquito Romero,Mauro Zarate,Di Maria
+Soule,Changuito Zeballos
+Dibu,Colo Barco,Palermo,Messi,Ogro Fabianni
+Wachoffisde Abila,Palermo,Changuito Zeballos
