@@ -1,5 +1,5 @@
-Dybala,Messi,Burrito Ortega,Simeone
-Riquelme,Langoni,Tucu Pereyra
-Colidio,Pity Martinez,Ogro Fabianni,Chiquito Romero
-Barcon't,Pity Martinez,Changuito Zeballos,Burrito Ortega
-Mauro Zarate,Riquelme
+Cuti Romero,Casco,Mauro Zarate,Armani
+Langoni,Chiquito Romero,Wachoffisde Abila
+Colo Barco,Palermo,Buonanotte,Dibu
+Cuti Romero,Colo Barco,Gallardo,Changuito Zeballos
+Tucu Pereyra,Wachoffisde Abila

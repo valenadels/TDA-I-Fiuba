@@ -1,50 +1,50 @@
-Colo Barco
-Zapelli,Dibu
-Buendia,Soule
-El fantasma de la B
-Barcon't,Simeone
-Messi
-Messi,Dibu
-Luka Romero
-Armani,Palermo
-Casco,Burrito Ortega
-Burrito Ortega,Ogro Fabianni
-Luka Romero
-Tucu Pereyra
-Colidio
-Pezzella
-Di Maria
-Zapelli,Dibu
-Wachoffisde Abila,Cuti Romero
-Langoni
-Changuito Zeballos,Burrito Ortega
-Barcon't,El fantasma de la B
-Cuti Romero,Ogro Fabianni
-Mauro Zarate,Colo Barco
-Gallardo
-Di Maria
-Colo Barco
-Mauro Zarate,Soule
-Barcon't,Dibu
-Barcon't,Cuti Romero
-Luka Romero
-Buonanotte,Casco
-El fantasma de la B,Ogro Fabianni
-Beltran
-Luka Romero
-Wachoffisde Abila,Soule
-El fantasma de la B
-Buonanotte,Luka Romero
-Buonanotte,Messi
-Dybala,Cuti Romero
-Wachoffisde Abila
-Buendia,Palermo
-Gallardo
-Pity Martinez,Colo Barco
 Burrito Ortega
+Di Maria,Colidio
+Pity Martinez,Dybala
+Riquelme
+Armani,Changuito Zeballos
+Mauro Zarate
+Mauro Zarate,Di Maria
+Barcon't
+Zapelli,Beltran
+Cuti Romero,El fantasma de la B
+Cuti Romero,Dibu
+Barcon't
 Langoni
-Ogro Fabianni,Chiquito Romero
-Colidio,Messi
-Armani,Colo Barco
+Buonanotte
+Luka Romero
+Simeone
+Di Maria,Colidio
+Messi,Ogro Fabianni
+Chiquito Romero
+Cuti Romero,Gallardo
+Riquelme,Changuito Zeballos
+Messi,Dibu
+Burrito Ortega,Tucu Pereyra
+Soule
+Simeone
+Burrito Ortega
+Tucu Pereyra,Dybala
+Di Maria,Changuito Zeballos
+Messi,Changuito Zeballos
+Barcon't
+El fantasma de la B,Pezzella
+Riquelme,Dibu
+Buendia
+Barcon't
+Ogro Fabianni,Dybala
+Riquelme
+Barcon't,Pezzella
+Mauro Zarate,Pezzella
+Messi,Casco
 Ogro Fabianni
-Beltran
+Zapelli,Pity Martinez
+Soule
+Burrito Ortega,Colo Barco
+Cuti Romero
+Chiquito Romero
+Palermo,Dibu
+Mauro Zarate,Buonanotte
+Burrito Ortega,Beltran
+Dibu
+Buendia
